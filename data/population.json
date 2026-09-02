@@ -2,9 +2,8 @@
   "latestMonth": "2026-07",
   "latestRocMonth": "11507",
   "previousMonth": "2026-06",
-  "generatedAt": "2026-09-02T05:21:06.581Z",
-  "stale": true,
-  "syncWarning": "目前顯示網站建置時查證的官方資料快照；網站會每天由後端自動檢查更新。",
+  "generatedAt": "2026-09-02T11:53:53.617Z",
+  "stale": false,
   "totals": {
     "population": 23235002,
     "male": 11422328,
@@ -6135,5 +6134,5 @@
     }
   ],
   "rankingCoverage": 368,
-  "syncedAt": 0
+  "syncedAt": 1788350033617
 }
