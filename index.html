@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>島嶼人口觀測站｜臺灣戶籍人口動態儀表板</title>
+<meta name="description" content="以繁體中文呈現臺灣戶籍人口動態：最新總人口、出生死亡趨勢、年齡金字塔、鄉鎮市區增減榜與 1992–2075 人口時間機。" />
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;600;700&display=swap" rel="stylesheet" />
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js"></script>
+<link rel="stylesheet" href="assets/style.css" />
+</head>
+<body>
+
+<main>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <div class="brand">
+        <div class="brand-icon">
+          <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 12h-4l-3 9L9 3l-3 9H2"/></svg>
+        </div>
+        <div class="brand-text">
+          <p class="brand-title">島嶼人口觀測站</p>
+          <p class="brand-sub">臺灣戶籍人口動態儀表板</p>
+        </div>
+      </div>
+      <div class="header-actions">
+        <div class="sync-indicator" id="sync-indicator">
+          <span class="status-dot" id="status-dot"></span>
+          <span id="sync-label">讀取共用資料中</span>
+        </div>
+        <button class="btn" id="refresh-btn" type="button">
+          <svg class="icon-refresh" viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="23 4 23 10 17 10"/><polyline points="1 20 1 14 7 14"/><path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0 0 20.49 15"/></svg>
+          <span class="btn-label">檢查更新</span>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <div class="wrap page-body">
+
+    <section class="hero">
+      <div>
+        <p class="eyebrow">Taiwan population pulse</p>
+        <h1>看見臺灣人口，每個月的改變</h1>
+        <p class="hero-desc">出生、死亡、年齡結構與鄉鎮市區增減，一頁掌握最新戶籍人口脈動。</p>
+      </div>
+      <div class="latest-month-chip">
+        <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+        最新統計：<strong id="latest-month-label">—</strong>
+      </div>
+    </section>
+
+    <div class="warning-banner" id="warning-banner" hidden>
+      <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M1 1l22 22M16.72 11.06A10.94 10.94 0 0 1 19 12.55M5 12.55a10.94 10.94 0 0 1 5.17-2.39M10.71 5.05A16 16 0 0 1 22.58 9M1.42 9a15.91 15.91 0 0 1 4.7-2.88M8.53 16.11a6 6 0 0 1 6.95 0M12 20h.01"/></svg>
+      <p id="warning-text"></p>
+    </div>
+
+    <section class="stat-grid">
+      <article class="stat-card">
+        <div class="stat-icon stat-icon-population">
+          <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87M16 3.13a4 4 0 0 1 0 7.75"/></svg>
+        </div>
+        <div class="stat-body">
+          <p class="stat-label">總人口</p>
+          <p class="stat-value" id="stat-population">同步中</p>
+          <p class="stat-note" id="stat-population-note">正在取得戶政資料</p>
+        </div>
+      </article>
+      <article class="stat-card">
+        <div class="stat-icon stat-icon-birth">
+          <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 12h.01M15 12h.01M10 16c.5.3 1.2.5 2 .5s1.5-.2 2-.5M12 2a5 5 0 0 0-5 5c0 1.8.9 3.4 2.3 4.4C8.5 12 8 13.4 8 15v1a4 4 0 0 0 4 4h0a4 4 0 0 0 4-4v-1c0-1.6-.5-3-1.3-3.6C16.1 10.4 17 8.8 17 7a5 5 0 0 0-5-5z"/></svg>
+        </div>
+        <div class="stat-body">
+          <p class="stat-label">本月出生</p>
+          <p class="stat-value" id="stat-birth">0</p>
+          <p class="stat-note" id="stat-birth-note">每月出生登記數</p>
+        </div>
+      </article>
+      <article class="stat-card">
+        <div class="stat-icon stat-icon-death">
+          <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="10" r="7"/><path d="M9 21l.5-4h5l.5 4M9 10h.01M15 10h.01M8 15c1.2.8 2.6 1.2 4 1.2s2.8-.4 4-1.2"/></svg>
+        </div>
+        <div class="stat-body">
+          <p class="stat-label">本月死亡</p>
+          <p class="stat-value" id="stat-death">0</p>
+          <p class="stat-note" id="stat-death-note">每月死亡登記數</p>
+        </div>
+      </article>
+      <article class="stat-card">
+        <div class="stat-icon stat-icon-change">
+          <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></svg>
+        </div>
+        <div class="stat-body">
+          <p class="stat-label">自然增減</p>
+          <p class="stat-value" id="stat-change">0</p>
+          <p class="stat-note">出生人口－死亡人口</p>
+        </div>
+      </article>
+    </section>
+
+    <section class="card">
+      <div class="card-heading">
+        <div>
+          <div class="heading-row">
+            <h2>出生與死亡人口走勢</h2>
+            <span class="info-dot" title="統計為戶籍登記數">i</span>
+          </div>
+          <p class="card-sub">月線回溯近 60 個月；年線呈現 1994 年至今，當年度為截至最新月份。</p>
+        </div>
+        <div class="segment-group" id="trend-unit-toggle" role="group" aria-label="時間單位">
+          <button class="segment segment-active" data-unit="month">按月</button>
+          <button class="segment" data-unit="year">按年</button>
+        </div>
+      </div>
+      <div class="legend-row">
+        <span class="legend-dot"><i style="background:var(--birth)"></i>出生人口</span>
+        <span class="legend-dot"><i style="background:var(--death)"></i>死亡人口</span>
+        <span class="legend-push" id="trend-unit-note">單位：人</span>
+      </div>
+      <div class="trend-compare-grid">
+        <article class="compare-card">
+          <div class="compare-title"><span class="dot" style="background:var(--birth)"></span>出生人口比較</div>
+          <div class="compare-grid">
+            <div><p class="compare-label">較去年同月</p><p class="compare-value" id="birth-yoy">—</p></div>
+            <div class="bordered"><p class="compare-label">近12月較前12月</p><p class="compare-value" id="birth-rolling">—</p></div>
+          </div>
+        </article>
+        <article class="compare-card">
+          <div class="compare-title"><span class="dot" style="background:var(--death)"></span>死亡人口比較</div>
+          <div class="compare-grid">
+            <div><p class="compare-label">較去年同月</p><p class="compare-value" id="death-yoy">—</p></div>
+            <div class="bordered"><p class="compare-label">近12月較前12月</p><p class="compare-value" id="death-rolling">—</p></div>
+          </div>
+        </article>
+      </div>
+      <div class="chart-wrap chart-trend">
+        <canvas id="trend-chart"></canvas>
+      </div>
+    </section>
+
+    <div class="two-col">
+      <section class="card">
+        <div class="card-heading">
+          <div>
+            <h2>男女年齡人口金字塔</h2>
+            <p class="card-sub" id="pyramid-sub">全臺戶籍人口・每 5 歲為一級距</p>
+          </div>
+          <div class="legend-row no-wrap">
+            <span class="legend-dot"><i style="background:var(--male)"></i>男性</span>
+            <span class="legend-dot"><i style="background:var(--female)"></i>女性</span>
+          </div>
+        </div>
+        <div class="age-metric-grid">
+          <article class="age-metric"><p class="am-label">0–14 歲</p><p class="am-value" id="am-children">—%</p><p class="am-note" id="am-children-note">— 人</p></article>
+          <article class="age-metric"><p class="am-label">15–64 歲</p><p class="am-value" id="am-working">—%</p><p class="am-note" id="am-working-note">— 人</p></article>
+          <article class="age-metric"><p class="am-label">65 歲以上</p><p class="am-value" id="am-older">—%</p><p class="am-note" id="am-older-note">— 人</p></article>
+          <article class="age-metric"><p class="am-label">老化指數</p><p class="am-value" id="am-aging">—</p><p class="am-note">每 100 名兒少</p></article>
+        </div>
+        <div class="chart-wrap chart-pyramid">
+          <canvas id="pyramid-chart"></canvas>
+        </div>
+        <div class="pyramid-footer">
+          <span>男性 <strong id="total-male">—</strong> 人</span>
+          <span>女性 <strong id="total-female">—</strong> 人</span>
+        </div>
+      </section>
+
+      <section class="card ranking-card">
+        <div class="card-heading">
+          <div>
+            <h2>鄉鎮市區人口增減榜</h2>
+            <p class="card-sub" id="ranking-sub">比較本月底與上月底戶籍人口</p>
+          </div>
+          <div class="segment-group" id="ranking-metric-toggle" role="group" aria-label="人口增減榜排序方式">
+            <button class="segment segment-active" data-metric="count">人數變化</button>
+            <button class="segment" data-metric="rate">百分比變化</button>
+          </div>
+        </div>
+        <div class="threshold-row" id="threshold-row" hidden>
+          <span class="threshold-label">上月人口門檻</span>
+          <div class="segment-group" id="ranking-threshold-toggle">
+            <button class="segment segment-outline segment-active" data-threshold="0">不限</button>
+            <button class="segment segment-outline" data-threshold="10000">1 萬以上</button>
+            <button class="segment segment-outline" data-threshold="50000">5 萬以上</button>
+          </div>
+          <span class="threshold-hint">門檻可降低小母數放大百分比的影響</span>
+        </div>
+        <div class="ranking-grid">
+          <div class="ranking-panel" id="ranking-increase">
+            <div class="ranking-title"><span class="ranking-title-icon increase">
+              <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/></svg>
+            </span>淨增加 TOP 10</div>
+            <ol class="ranking-list" id="ranking-increase-list"></ol>
+          </div>
+          <div class="ranking-panel ranking-panel-decrease" id="ranking-decrease">
+            <div class="ranking-title"><span class="ranking-title-icon decrease">
+              <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="23 18 13.5 8.5 8.5 13.5 1 6"/><polyline points="17 18 23 18 23 12"/></svg>
+            </span>淨減少 TOP 10</div>
+            <ol class="ranking-list" id="ranking-decrease-list"></ol>
+          </div>
+        </div>
+        <div class="ranking-formula">
+          <strong>計算方式：</strong>人數變化為本月底戶籍人口－上月底戶籍人口；百分比變化為人數變化÷上月底戶籍人口。兩者均包含出生、死亡及人口遷徙造成的總變化。
+        </div>
+      </section>
+    </div>
+
+    <section class="card time-machine-card" id="time-machine-section">
+      <div class="card-heading time-machine-heading">
+        <div>
+          <div class="heading-row">
+            <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="color:var(--primary)"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+            <h2>臺灣人口時間機</h2>
+          </div>
+          <p class="card-sub">1992–2025 年為歷史實際統計；2026–2075 年為國發會 2026 年版人口推估。</p>
+        </div>
+        <span class="lazy-chip">滑到此區才載入・不拖慢首頁</span>
+      </div>
+
+      <div id="time-machine-loading" class="loading-panel">
+        <div>
+          <svg class="spin" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12a9 9 0 1 1-6.219-8.56"/></svg>
+          <p class="loading-title">正在開啟 84 年的人口時間軸</p>
+          <p class="loading-note">第一次載入需要一點時間</p>
+        </div>
+      </div>
+
+      <div id="time-machine-error" class="loading-panel" hidden>
+        <div>
+          <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="color:#b45309"><path d="M1 1l22 22M16.72 11.06A10.94 10.94 0 0 1 19 12.55M5 12.55a10.94 10.94 0 0 1 5.17-2.39M10.71 5.05A16 16 0 0 1 22.58 9M1.42 9a15.91 15.91 0 0 1 4.7-2.88M8.53 16.11a6 6 0 0 1 6.95 0M12 20h.01"/></svg>
+          <p class="loading-title" id="time-machine-error-text">人口時間機資料載入失敗</p>
+          <button class="btn btn-primary" id="time-machine-retry">重新載入</button>
+        </div>
+      </div>
+
+      <div id="time-machine-body" class="time-machine-body" hidden>
+        <div class="tm-year-panel">
+          <div class="tm-year-row">
+            <div class="tm-year-display">
+              <div class="tm-year" id="tm-year">2026</div>
+              <div>
+                <span class="time-kind-badge" id="tm-kind-badge">推估</span>
+                <p class="tm-year-caption">年底人口・單位：人</p>
+              </div>
+            </div>
+            <div class="tm-scenario-group">
+              <span class="threshold-label">推估情境</span>
+              <div class="segment-group" id="tm-scenario-toggle">
+                <button class="segment segment-outline" data-scenario="high">高推估</button>
+                <button class="segment segment-outline segment-active" data-scenario="medium">中推估</button>
+                <button class="segment segment-outline" data-scenario="low">低推估</button>
+              </div>
+            </div>
+          </div>
+          <p class="tm-fertility-note" id="tm-fertility-note" hidden>國發會長期總生育率假設：高推估 1.1、中推估 0.8、低推估 0.6</p>
+          <div class="tm-slider-wrap">
+            <input class="time-slider" type="range" id="tm-slider" min="1992" max="2075" value="2026" aria-label="選擇人口時間機年份" />
+            <div class="tm-slider-ticks">
+              <span id="tm-tick-start">1992 實際</span>
+              <span id="tm-tick-actual-through">2025 實際終點</span>
+              <span id="tm-tick-projection-from">2026 推估起點</span>
+              <span id="tm-tick-end">2075 推估</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="tm-metric-grid">
+          <article class="tm-metric"><p class="tm-metric-label">總人口</p><p class="tm-metric-value" id="tm-total">—</p><p class="tm-metric-note">年底人口</p></article>
+          <article class="tm-metric"><p class="tm-metric-label">0–14 歲</p><p class="tm-metric-value" id="tm-children">—</p><p class="tm-metric-note" id="tm-children-note">—%</p></article>
+          <article class="tm-metric"><p class="tm-metric-label">15–64 歲</p><p class="tm-metric-value" id="tm-working">—</p><p class="tm-metric-note" id="tm-working-note">—%</p></article>
+          <article class="tm-metric"><p class="tm-metric-label">65 歲以上</p><p class="tm-metric-value" id="tm-older">—</p><p class="tm-metric-note" id="tm-older-note">—%</p></article>
+          <article class="tm-metric"><p class="tm-metric-label">老化指數</p><p class="tm-metric-value" id="tm-aging">—</p><p class="tm-metric-note">每 100 名兒少</p></article>
+        </div>
+
+        <div class="tm-chart-grid">
+          <div class="tm-panel">
+            <div class="tm-panel-heading">
+              <div>
+                <h3 id="tm-pyramid-title">2026 年人口金字塔</h3>
+                <p class="tm-panel-sub">每 5 歲一級距・左側男性、右側女性</p>
+              </div>
+              <div class="legend-row no-wrap">
+                <span class="legend-dot"><i style="background:var(--male)"></i>男性</span>
+                <span class="legend-dot"><i style="background:var(--female)"></i>女性</span>
+              </div>
+            </div>
+            <div class="chart-wrap chart-tm-pyramid">
+              <canvas id="tm-pyramid-chart"></canvas>
+            </div>
+          </div>
+
+          <div class="tm-side">
+            <div class="tm-panel">
+              <div class="tm-panel-heading">
+                <div>
+                  <h3>總人口長期軌跡</h3>
+                  <p class="tm-panel-sub">實線為歷史，虛線為高／中／低推估</p>
+                </div>
+                <div class="legend-row no-wrap small">
+                  <span class="legend-dot"><i style="background:var(--projection-high)"></i>高</span>
+                  <span class="legend-dot"><i style="background:var(--projection-medium)"></i>中</span>
+                  <span class="legend-dot"><i style="background:var(--projection-low)"></i>低</span>
+                </div>
+              </div>
+              <div class="chart-wrap chart-tm-trend">
+                <canvas id="tm-trend-chart"></canvas>
+              </div>
+            </div>
+
+            <article class="tm-observation">
+              <div class="tm-observation-eyebrow">
+                <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v4M12 17v4M3 12h4M17 12h4M6.3 6.3l2.8 2.8M14.9 14.9l2.8 2.8M6.3 17.7l2.8-2.8M14.9 9.1l2.8-2.8"/></svg>
+                這一年值得注意
+              </div>
+              <h3 id="tm-observation-title">等待人口時間軸資料</h3>
+              <p id="tm-observation-body">載入後顯示這一年的結構變化。</p>
+            </article>
+
+            <div class="tm-reminder">
+              <strong>判讀提醒：</strong>推估不是預言，而是在不同生育、死亡與遷徙假設下的可能路徑；切換情境可觀察長期差距，歷史年份則不受情境影響。
+            </div>
+          </div>
+        </div>
+
+        <div class="tm-source-row">
+          <span id="tm-source-label">資料：國家發展委員會・更新中</span>
+          <a id="tm-source-link" href="#" target="_blank" rel="noreferrer" class="source-link">查看國發會原始資料
+            <svg viewBox="0 0 24 24" width="12" height="12" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <footer class="site-footer">
+      <div class="footer-inner">
+        <div>
+          <p class="footer-title">資料來源與更新說明</p>
+          <p>內政部戶政司與內政統計查詢網。資料以戶籍登記為準，官方最新月份可能較當月落後。</p>
+          <p id="generated-at-label"></p>
+        </div>
+        <div class="footer-links">
+          <a class="source-link" href="https://data.gov.tw/dataset/14233" target="_blank" rel="noreferrer">出生人口<svg viewBox="0 0 24 24" width="12" height="12" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg></a>
+          <a class="source-link" href="https://data.gov.tw/dataset/14236" target="_blank" rel="noreferrer">死亡人口<svg viewBox="0 0 24 24" width="12" height="12" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg></a>
+          <a class="source-link" href="https://data.gov.tw/dataset/77132" target="_blank" rel="noreferrer">單一年齡人口<svg viewBox="0 0 24 24" width="12" height="12" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg></a>
+        </div>
+      </div>
+    </footer>
+
+  </div>
+</main>
+
+<script src="assets/app.js"></script>
+</body>
+</html>
