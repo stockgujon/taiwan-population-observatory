@@ -1,0 +1,54 @@
+name: Sync population data
+
+on:
+  schedule:
+    # 19:00 UTC = 03:00 Taipei time (UTC+8), once a day.
+    - cron: '0 19 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-population
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run daily sync
+        id: sync
+        continue-on-error: true
+        run: node scripts/sync-population.mjs
+
+      # Runs even if the sync step above failed, so a failed government-source
+      # fetch still commits the stale-flagged fallback payload the script wrote
+      # (per spec: never leave the site pointing at nothing).
+      - name: Commit updated data
+        if: always()
+        run: |
+          git config user.name "population-sync-bot"
+          git config user.email "actions@users.noreply.github.com"
+          if git diff --quiet -- data/population.json; then
+            echo "No data changes to commit."
+            exit 0
+          fi
+          git add data/population.json
+          git commit -m "chore: daily population data sync"
+          git push
+
+      # Surface a real failure in the Actions tab / notifications even though
+      # the commit step above still ran, so a broken daily sync doesn't go
+      # unnoticed.
+      - name: Fail run if sync errored
+        if: steps.sync.outcome == 'failure'
+        run: |
+          echo "::error::Population sync failed; site is showing stale/fallback data. See the 'Run daily sync' step log above."
+          exit 1
