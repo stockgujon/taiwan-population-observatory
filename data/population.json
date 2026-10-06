@@ -1,17 +1,17 @@
 {
-  "latestMonth": "2026-08",
-  "latestRocMonth": "11508",
-  "previousMonth": "2026-07",
-  "generatedAt": "2026-10-04T22:01:43.941Z",
+  "latestMonth": "2026-09",
+  "latestRocMonth": "11509",
+  "previousMonth": "2026-08",
+  "generatedAt": "2026-10-06T00:25:26.733Z",
   "stale": false,
   "totals": {
-    "population": 23224721,
-    "male": 11416185,
-    "female": 11808536,
+    "population": 23213251,
+    "male": 11409469,
+    "female": 11803782,
     "birth": 7492,
     "death": 16470,
     "naturalChange": -8978,
-    "monthlyChange": -10281
+    "monthlyChange": -11470
   },
   "trend": [
     {
@@ -2762,3384 +2762,3384 @@
   "pyramid": [
     {
       "age": "0–4歲",
-      "male": 333299,
-      "female": 311014
+      "male": 330279,
+      "female": 308151
     },
     {
       "age": "5–9歲",
-      "male": 466471,
-      "female": 435285
+      "male": 463844,
+      "female": 432923
     },
     {
       "age": "10–14歲",
-      "male": 554092,
-      "female": 516075
+      "male": 554248,
+      "female": 516351
     },
     {
       "age": "15–19歲",
-      "male": 503610,
-      "female": 464173
+      "male": 503129,
+      "female": 463741
     },
     {
       "age": "20–24歲",
-      "male": 581767,
-      "female": 533142
+      "male": 579776,
+      "female": 531183
     },
     {
       "age": "25–29歲",
-      "male": 753374,
-      "female": 698965
+      "male": 749784,
+      "female": 695572
     },
     {
       "age": "30–34歲",
-      "male": 824052,
-      "female": 772695
+      "male": 824161,
+      "female": 773107
     },
     {
       "age": "35–39歲",
-      "male": 814473,
-      "female": 774311
+      "male": 815284,
+      "female": 774201
     },
     {
       "age": "40–44歲",
-      "male": 902366,
-      "female": 918232
+      "male": 897541,
+      "female": 912780
     },
     {
       "age": "45–49歲",
-      "male": 980902,
-      "female": 1022948
+      "male": 980253,
+      "female": 1022075
     },
     {
       "age": "50–54歲",
-      "male": 850735,
-      "female": 905474
+      "male": 854312,
+      "female": 908816
     },
     {
       "age": "55–59歲",
-      "male": 850999,
-      "female": 904266
+      "male": 851271,
+      "female": 904886
     },
     {
       "age": "60–64歲",
-      "male": 845837,
-      "female": 916093
+      "male": 844676,
+      "female": 914854
     },
     {
       "age": "65–69歲",
-      "male": 757887,
-      "female": 846714
+      "male": 757115,
+      "female": 846273
     },
     {
       "age": "70–74歲",
-      "male": 632697,
-      "female": 738632
+      "male": 635013,
+      "female": 741964
     },
     {
       "age": "75–79歲",
-      "male": 392290,
-      "female": 485436
+      "male": 396591,
+      "female": 490299
     },
     {
       "age": "80–84歲",
-      "male": 193346,
-      "female": 268320
+      "male": 193560,
+      "female": 268687
     },
     {
       "age": "85–89歲",
-      "male": 117031,
-      "female": 190135
+      "male": 117524,
+      "female": 190635
     },
     {
       "age": "90–94歲",
-      "male": 44438,
-      "female": 81344
+      "male": 44513,
+      "female": 81780
     },
     {
       "age": "95–99歲",
-      "male": 14079,
-      "female": 22006
+      "male": 14140,
+      "female": 22173
     },
     {
       "age": "100歲以上",
-      "male": 2440,
-      "female": 3276
+      "male": 2455,
+      "female": 3331
     }
   ],
   "topIncrease": [
     {
       "name": "桃園市龜山區",
       "county": "桃園市",
-      "current": 189868,
-      "previous": 189419,
-      "change": 449,
-      "rate": 0.2370406347832055
+      "current": 190506,
+      "previous": 189868,
+      "change": 638,
+      "rate": 0.3360229211873512
+    },
+    {
+      "name": "金門縣金寧鄉",
+      "county": "金門縣",
+      "current": 35137,
+      "previous": 34669,
+      "change": 468,
+      "rate": 1.3499091407309123
+    },
+    {
+      "name": "桃園市大園區",
+      "county": "桃園市",
+      "current": 91749,
+      "previous": 91519,
+      "change": 230,
+      "rate": 0.25131393481135067
     },
     {
       "name": "新北市淡水區",
       "county": "新北市",
-      "current": 209973,
-      "previous": 209747,
-      "change": 226,
-      "rate": 0.10774885934006206
-    },
-    {
-      "name": "桃園市大園區",
-      "county": "桃園市",
-      "current": 91519,
-      "previous": 91294,
-      "change": 225,
-      "rate": 0.2464565031655969
-    },
-    {
-      "name": "臺中市沙鹿區",
-      "county": "臺中市",
-      "current": 101829,
-      "previous": 101666,
-      "change": 163,
-      "rate": 0.16032892018964057
-    },
-    {
-      "name": "桃園市八德區",
-      "county": "桃園市",
-      "current": 216712,
-      "previous": 216559,
-      "change": 153,
-      "rate": 0.07065049247549167
+      "current": 210196,
+      "previous": 209973,
+      "change": 223,
+      "rate": 0.10620413100731999
     },
     {
       "name": "臺中市北屯區",
       "county": "臺中市",
-      "current": 318861,
-      "previous": 318714,
-      "change": 147,
-      "rate": 0.04612285622846815
+      "current": 319081,
+      "previous": 318861,
+      "change": 220,
+      "rate": 0.06899558114664384
     },
     {
-      "name": "新北市泰山區",
-      "county": "新北市",
-      "current": 78313,
-      "previous": 78170,
-      "change": 143,
-      "rate": 0.1829346296533197
+      "name": "澎湖縣馬公市",
+      "county": "澎湖縣",
+      "current": 62811,
+      "previous": 62617,
+      "change": 194,
+      "rate": 0.3098200169283102
     },
     {
       "name": "臺中市梧棲區",
       "county": "臺中市",
-      "current": 67720,
-      "previous": 67585,
-      "change": 135,
-      "rate": 0.19974846489605683
+      "current": 67903,
+      "previous": 67720,
+      "change": 183,
+      "rate": 0.2702303603071471
     },
     {
-      "name": "臺中市南區",
-      "county": "臺中市",
-      "current": 128297,
-      "previous": 128169,
-      "change": 128,
-      "rate": 0.09986814284265305
+      "name": "桃園市八德區",
+      "county": "桃園市",
+      "current": 216891,
+      "previous": 216712,
+      "change": 179,
+      "rate": 0.0825981025508509
     },
     {
-      "name": "新竹縣竹北市",
-      "county": "新竹縣",
-      "current": 221233,
-      "previous": 221109,
+      "name": "桃園市觀音區",
+      "county": "桃園市",
+      "current": 78376,
+      "previous": 78242,
+      "change": 134,
+      "rate": 0.1712635157587996
+    },
+    {
+      "name": "桃園市蘆竹區",
+      "county": "桃園市",
+      "current": 170858,
+      "previous": 170734,
       "change": 124,
-      "rate": 0.056080937456186766
+      "rate": 0.07262759614370894
     }
   ],
   "topDecrease": [
     {
-      "name": "新北市板橋區",
-      "county": "新北市",
-      "current": 547794,
-      "previous": 548271,
-      "change": -477,
-      "rate": -0.08700077151627572
-    },
-    {
       "name": "臺北市大安區",
       "county": "臺北市",
-      "current": 280206,
-      "previous": 280531,
-      "change": -325,
-      "rate": -0.11585172405188732
+      "current": 279617,
+      "previous": 280206,
+      "change": -589,
+      "rate": -0.21020249387950293
     },
     {
-      "name": "新北市永和區",
+      "name": "新北市板橋區",
       "county": "新北市",
-      "current": 210038,
-      "previous": 210354,
-      "change": -316,
-      "rate": -0.15022295749070616
+      "current": 547349,
+      "previous": 547794,
+      "change": -445,
+      "rate": -0.08123491677528415
     },
     {
       "name": "臺北市中正區",
       "county": "臺北市",
-      "current": 143103,
-      "previous": 143414,
-      "change": -311,
-      "rate": -0.21685470037792684
-    },
-    {
-      "name": "臺北市士林區",
-      "county": "臺北市",
-      "current": 255947,
-      "previous": 256225,
-      "change": -278,
-      "rate": -0.10849839008683773
-    },
-    {
-      "name": "臺北市信義區",
-      "county": "臺北市",
-      "current": 199398,
-      "previous": 199651,
-      "change": -253,
-      "rate": -0.12672112836900393
-    },
-    {
-      "name": "新北市中和區",
-      "county": "新北市",
-      "current": 402076,
-      "previous": 402318,
-      "change": -242,
-      "rate": -0.0601514225065744
-    },
-    {
-      "name": "高雄市三民區",
-      "county": "高雄市",
-      "current": 327405,
-      "previous": 327647,
-      "change": -242,
-      "rate": -0.07385997735367636
-    },
-    {
-      "name": "臺北市松山區",
-      "county": "臺北市",
-      "current": 185999,
-      "previous": 186238,
-      "change": -239,
-      "rate": -0.12833041591941494
+      "current": 142673,
+      "previous": 143103,
+      "change": -430,
+      "rate": -0.30048286898248117
     },
     {
       "name": "臺北市內湖區",
       "county": "臺北市",
-      "current": 265856,
-      "previous": 266085,
-      "change": -229,
-      "rate": -0.08606272431741738
+      "current": 265437,
+      "previous": 265856,
+      "change": -419,
+      "rate": -0.15760411651420317
+    },
+    {
+      "name": "臺北市士林區",
+      "county": "臺北市",
+      "current": 255580,
+      "previous": 255947,
+      "change": -367,
+      "rate": -0.1433890610165386
+    },
+    {
+      "name": "新北市永和區",
+      "county": "新北市",
+      "current": 209679,
+      "previous": 210038,
+      "change": -359,
+      "rate": -0.17092145230862985
+    },
+    {
+      "name": "臺北市松山區",
+      "county": "臺北市",
+      "current": 185700,
+      "previous": 185999,
+      "change": -299,
+      "rate": -0.16075355243845396
+    },
+    {
+      "name": "彰化縣彰化市",
+      "county": "彰化縣",
+      "current": 218437,
+      "previous": 218733,
+      "change": -296,
+      "rate": -0.13532480238464248
+    },
+    {
+      "name": "臺北市文山區",
+      "county": "臺北市",
+      "current": 252102,
+      "previous": 252377,
+      "change": -275,
+      "rate": -0.10896397056784096
+    },
+    {
+      "name": "桃園市中壢區",
+      "county": "桃園市",
+      "current": 438835,
+      "previous": 439097,
+      "change": -262,
+      "rate": -0.05966790936854499
     }
   ],
   "topRateIncrease": [
     {
-      "name": "桃園市大園區",
-      "county": "桃園市",
-      "current": 91519,
-      "previous": 91294,
-      "change": 225,
-      "rate": 0.2464565031655969
+      "name": "連江縣北竿鄉",
+      "county": "連江縣",
+      "current": 2899,
+      "previous": 2855,
+      "change": 44,
+      "rate": 1.5411558669001753
     },
     {
-      "name": "高雄市新興區",
-      "county": "高雄市",
-      "current": 49695,
-      "previous": 49574,
-      "change": 121,
-      "rate": 0.2440795578327349
+      "name": "金門縣金寧鄉",
+      "county": "金門縣",
+      "current": 35137,
+      "previous": 34669,
+      "change": 468,
+      "rate": 1.3499091407309123
+    },
+    {
+      "name": "新北市烏來區",
+      "county": "新北市",
+      "current": 6128,
+      "previous": 6107,
+      "change": 21,
+      "rate": 0.3438676928115278
     },
     {
       "name": "桃園市龜山區",
       "county": "桃園市",
-      "current": 189868,
-      "previous": 189419,
-      "change": 449,
-      "rate": 0.2370406347832055
+      "current": 190506,
+      "previous": 189868,
+      "change": 638,
+      "rate": 0.3360229211873512
     },
     {
-      "name": "高雄市橋頭區",
+      "name": "澎湖縣馬公市",
+      "county": "澎湖縣",
+      "current": 62811,
+      "previous": 62617,
+      "change": 194,
+      "rate": 0.3098200169283102
+    },
+    {
+      "name": "高雄市桃源區",
       "county": "高雄市",
-      "current": 43750,
-      "previous": 43653,
-      "change": 97,
-      "rate": 0.22220695026687742
+      "current": 4168,
+      "previous": 4156,
+      "change": 12,
+      "rate": 0.28873917228103946
+    },
+    {
+      "name": "桃園市復興區",
+      "county": "桃園市",
+      "current": 13246,
+      "previous": 13208,
+      "change": 38,
+      "rate": 0.28770442156268927
     },
     {
       "name": "臺中市梧棲區",
       "county": "臺中市",
-      "current": 67720,
-      "previous": 67585,
-      "change": 135,
-      "rate": 0.19974846489605683
+      "current": 67903,
+      "previous": 67720,
+      "change": 183,
+      "rate": 0.2702303603071471
     },
     {
-      "name": "連江縣莒光鄉",
-      "county": "連江縣",
-      "current": 1592,
-      "previous": 1589,
-      "change": 3,
-      "rate": 0.18879798615481436
+      "name": "新竹縣尖石鄉",
+      "county": "新竹縣",
+      "current": 9545,
+      "previous": 9521,
+      "change": 24,
+      "rate": 0.25207436193677135
     },
     {
-      "name": "新北市泰山區",
-      "county": "新北市",
-      "current": 78313,
-      "previous": 78170,
-      "change": 143,
-      "rate": 0.1829346296533197
-    },
-    {
-      "name": "金門縣烏坵鄉",
-      "county": "金門縣",
-      "current": 597,
-      "previous": 596,
-      "change": 1,
-      "rate": 0.16778523489932887
-    },
-    {
-      "name": "澎湖縣望安鄉",
-      "county": "澎湖縣",
-      "current": 5404,
-      "previous": 5395,
-      "change": 9,
-      "rate": 0.16682113067655235
-    },
-    {
-      "name": "屏東縣春日鄉",
-      "county": "屏東縣",
-      "current": 4877,
-      "previous": 4869,
-      "change": 8,
-      "rate": 0.1643047853768741
+      "name": "桃園市大園區",
+      "county": "桃園市",
+      "current": 91749,
+      "previous": 91519,
+      "change": 230,
+      "rate": 0.25131393481135067
     }
   ],
   "topRateDecrease": [
     {
       "name": "新竹縣關西鎮",
       "county": "新竹縣",
-      "current": 27163,
-      "previous": 27372,
-      "change": -209,
-      "rate": -0.7635539967850358
+      "current": 27018,
+      "previous": 27163,
+      "change": -145,
+      "rate": -0.5338143798549497
     },
     {
-      "name": "屏東縣車城鄉",
-      "county": "屏東縣",
-      "current": 7588,
-      "previous": 7623,
-      "change": -35,
-      "rate": -0.4591368227731864
-    },
-    {
-      "name": "新竹縣五峰鄉",
-      "county": "新竹縣",
-      "current": 4396,
-      "previous": 4415,
-      "change": -19,
-      "rate": -0.4303510758776897
-    },
-    {
-      "name": "臺南市龍崎區",
-      "county": "臺南市",
-      "current": 3167,
-      "previous": 3179,
-      "change": -12,
-      "rate": -0.3774771940861906
-    },
-    {
-      "name": "苗栗縣獅潭鄉",
+      "name": "苗栗縣三灣鄉",
       "county": "苗栗縣",
-      "current": 3914,
-      "previous": 3927,
-      "change": -13,
-      "rate": -0.3310415075120957
-    },
-    {
-      "name": "屏東縣枋山鄉",
-      "county": "屏東縣",
-      "current": 4936,
-      "previous": 4952,
-      "change": -16,
-      "rate": -0.32310177705977383
-    },
-    {
-      "name": "臺南市大內區",
-      "county": "臺南市",
-      "current": 8337,
-      "previous": 8363,
-      "change": -26,
-      "rate": -0.3108932201363147
-    },
-    {
-      "name": "新竹縣峨眉鄉",
-      "county": "新竹縣",
-      "current": 4922,
-      "previous": 4937,
-      "change": -15,
-      "rate": -0.30382823577071094
-    },
-    {
-      "name": "臺東縣長濱鄉",
-      "county": "臺東縣",
-      "current": 6398,
-      "previous": 6417,
-      "change": -19,
-      "rate": -0.2960885148823438
+      "current": 5664,
+      "previous": 5691,
+      "change": -27,
+      "rate": -0.4744333157617291
     },
     {
       "name": "高雄市田寮區",
       "county": "高雄市",
-      "current": 6020,
-      "previous": 6037,
+      "current": 5993,
+      "previous": 6020,
+      "change": -27,
+      "rate": -0.4485049833887043
+    },
+    {
+      "name": "南投縣集集鎮",
+      "county": "南投縣",
+      "current": 10290,
+      "previous": 10334,
+      "change": -44,
+      "rate": -0.4257789820011612
+    },
+    {
+      "name": "花蓮縣豐濱鄉",
+      "county": "花蓮縣",
+      "current": 4058,
+      "previous": 4075,
       "change": -17,
-      "rate": -0.28159681961239025
+      "rate": -0.4171779141104294
+    },
+    {
+      "name": "屏東縣車城鄉",
+      "county": "屏東縣",
+      "current": 7562,
+      "previous": 7588,
+      "change": -26,
+      "rate": -0.3426462836056932
+    },
+    {
+      "name": "連江縣東引鄉",
+      "county": "連江縣",
+      "current": 1531,
+      "previous": 1536,
+      "change": -5,
+      "rate": -0.32552083333333337
+    },
+    {
+      "name": "雲林縣林內鄉",
+      "county": "雲林縣",
+      "current": 16230,
+      "previous": 16283,
+      "change": -53,
+      "rate": -0.32549284529877787
+    },
+    {
+      "name": "澎湖縣望安鄉",
+      "county": "澎湖縣",
+      "current": 5387,
+      "previous": 5404,
+      "change": -17,
+      "rate": -0.3145817912657291
+    },
+    {
+      "name": "苗栗縣泰安鄉",
+      "county": "苗栗縣",
+      "current": 5415,
+      "previous": 5432,
+      "change": -17,
+      "rate": -0.312960235640648
     }
   ],
   "townChanges": [
     {
       "name": "新北市板橋區",
       "county": "新北市",
-      "current": 547794,
-      "previous": 548271,
-      "change": -477,
-      "rate": -0.08700077151627572
+      "current": 547349,
+      "previous": 547794,
+      "change": -445,
+      "rate": -0.08123491677528415
     },
     {
       "name": "新北市三重區",
       "county": "新北市",
-      "current": 382530,
-      "previous": 382569,
-      "change": -39,
-      "rate": -0.010194239470526886
+      "current": 382436,
+      "previous": 382530,
+      "change": -94,
+      "rate": -0.024573236086058613
     },
     {
       "name": "新北市中和區",
       "county": "新北市",
-      "current": 402076,
-      "previous": 402318,
-      "change": -242,
-      "rate": -0.0601514225065744
+      "current": 401952,
+      "previous": 402076,
+      "change": -124,
+      "rate": -0.030839940707726898
     },
     {
       "name": "新北市永和區",
       "county": "新北市",
-      "current": 210038,
-      "previous": 210354,
-      "change": -316,
-      "rate": -0.15022295749070616
+      "current": 209679,
+      "previous": 210038,
+      "change": -359,
+      "rate": -0.17092145230862985
     },
     {
       "name": "新北市新莊區",
       "county": "新北市",
-      "current": 419921,
-      "previous": 420079,
-      "change": -158,
-      "rate": -0.03761197298603358
+      "current": 419779,
+      "previous": 419921,
+      "change": -142,
+      "rate": -0.033815884416354504
     },
     {
       "name": "新北市新店區",
       "county": "新北市",
-      "current": 305489,
-      "previous": 305637,
-      "change": -148,
-      "rate": -0.048423456584117765
+      "current": 305431,
+      "previous": 305489,
+      "change": -58,
+      "rate": -0.01898595366772617
     },
     {
       "name": "新北市樹林區",
       "county": "新北市",
-      "current": 176319,
-      "previous": 176474,
-      "change": -155,
-      "rate": -0.08783163525505173
+      "current": 176123,
+      "previous": 176319,
+      "change": -196,
+      "rate": -0.11116215495777539
     },
     {
       "name": "新北市鶯歌區",
       "county": "新北市",
-      "current": 89447,
-      "previous": 89380,
-      "change": 67,
-      "rate": 0.07496084135153278
+      "current": 89479,
+      "previous": 89447,
+      "change": 32,
+      "rate": 0.03577537536194618
     },
     {
       "name": "新北市三峽區",
       "county": "新北市",
-      "current": 115068,
-      "previous": 115087,
-      "change": -19,
-      "rate": -0.01650924952427294
+      "current": 115030,
+      "previous": 115068,
+      "change": -38,
+      "rate": -0.03302395105502833
     },
     {
       "name": "新北市淡水區",
       "county": "新北市",
-      "current": 209973,
-      "previous": 209747,
-      "change": 226,
-      "rate": 0.10774885934006206
+      "current": 210196,
+      "previous": 209973,
+      "change": 223,
+      "rate": 0.10620413100731999
     },
     {
       "name": "新北市汐止區",
       "county": "新北市",
-      "current": 212276,
-      "previous": 212341,
-      "change": -65,
-      "rate": -0.030611139629181362
+      "current": 212244,
+      "previous": 212276,
+      "change": -32,
+      "rate": -0.015074714051517836
     },
     {
       "name": "新北市瑞芳區",
       "county": "新北市",
-      "current": 35152,
-      "previous": 35203,
-      "change": -51,
-      "rate": -0.1448740164190552
+      "current": 35087,
+      "previous": 35152,
+      "change": -65,
+      "rate": -0.1849112426035503
     },
     {
       "name": "新北市土城區",
       "county": "新北市",
-      "current": 242828,
-      "previous": 242738,
-      "change": 90,
-      "rate": 0.037077013075826615
+      "current": 242819,
+      "previous": 242828,
+      "change": -9,
+      "rate": -0.00370632711219464
     },
     {
       "name": "新北市蘆洲區",
       "county": "新北市",
-      "current": 195348,
-      "previous": 195485,
-      "change": -137,
-      "rate": -0.07008210348620099
+      "current": 195133,
+      "previous": 195348,
+      "change": -215,
+      "rate": -0.11005999549521879
     },
     {
       "name": "新北市五股區",
       "county": "新北市",
-      "current": 95162,
-      "previous": 95055,
-      "change": 107,
-      "rate": 0.1125664089211509
+      "current": 95244,
+      "previous": 95162,
+      "change": 82,
+      "rate": 0.0861688489102793
     },
     {
       "name": "新北市泰山區",
       "county": "新北市",
-      "current": 78313,
-      "previous": 78170,
-      "change": 143,
-      "rate": 0.1829346296533197
+      "current": 78388,
+      "previous": 78313,
+      "change": 75,
+      "rate": 0.09576954017851443
     },
     {
       "name": "新北市林口區",
       "county": "新北市",
-      "current": 139392,
-      "previous": 139367,
-      "change": 25,
-      "rate": 0.01793824937036745
+      "current": 139499,
+      "previous": 139392,
+      "change": 107,
+      "rate": 0.07676193755739211
     },
     {
       "name": "新北市深坑區",
       "county": "新北市",
-      "current": 23527,
-      "previous": 23541,
-      "change": -14,
-      "rate": -0.05947071067499256
+      "current": 23495,
+      "previous": 23527,
+      "change": -32,
+      "rate": -0.13601394142899648
     },
     {
       "name": "新北市石碇區",
       "county": "新北市",
-      "current": 6841,
-      "previous": 6854,
-      "change": -13,
-      "rate": -0.18967026553837174
+      "current": 6830,
+      "previous": 6841,
+      "change": -11,
+      "rate": -0.1607952053793305
     },
     {
       "name": "新北市坪林區",
       "county": "新北市",
-      "current": 6052,
-      "previous": 6059,
-      "change": -7,
-      "rate": -0.11553061561313747
+      "current": 6046,
+      "previous": 6052,
+      "change": -6,
+      "rate": -0.09914077990746861
     },
     {
       "name": "新北市三芝區",
       "county": "新北市",
       "current": 21957,
-      "previous": 21952,
-      "change": 5,
-      "rate": 0.022776967930029153
+      "previous": 21957,
+      "change": 0,
+      "rate": 0
     },
     {
       "name": "新北市石門區",
       "county": "新北市",
-      "current": 9866,
-      "previous": 9874,
-      "change": -8,
-      "rate": -0.0810208628721896
+      "current": 9845,
+      "previous": 9866,
+      "change": -21,
+      "rate": -0.21285221974457733
     },
     {
       "name": "新北市八里區",
       "county": "新北市",
-      "current": 43483,
-      "previous": 43412,
-      "change": 71,
-      "rate": 0.16354924905556067
+      "current": 43489,
+      "previous": 43483,
+      "change": 6,
+      "rate": 0.013798495963939932
     },
     {
       "name": "新北市平溪區",
       "county": "新北市",
-      "current": 3864,
-      "previous": 3874,
-      "change": -10,
-      "rate": -0.2581311306143521
+      "current": 3861,
+      "previous": 3864,
+      "change": -3,
+      "rate": -0.07763975155279502
     },
     {
       "name": "新北市雙溪區",
       "county": "新北市",
-      "current": 7347,
-      "previous": 7356,
-      "change": -9,
-      "rate": -0.12234910277324632
+      "current": 7331,
+      "previous": 7347,
+      "change": -16,
+      "rate": -0.2177759629780863
     },
     {
       "name": "新北市貢寮區",
       "county": "新北市",
-      "current": 10264,
-      "previous": 10282,
-      "change": -18,
-      "rate": -0.17506321727290408
+      "current": 10240,
+      "previous": 10264,
+      "change": -24,
+      "rate": -0.23382696804364772
     },
     {
       "name": "新北市金山區",
       "county": "新北市",
-      "current": 19538,
-      "previous": 19580,
-      "change": -42,
-      "rate": -0.21450459652706844
+      "current": 19512,
+      "previous": 19538,
+      "change": -26,
+      "rate": -0.13307400962227456
     },
     {
       "name": "新北市萬里區",
       "county": "新北市",
-      "current": 19975,
-      "previous": 19979,
-      "change": -4,
-      "rate": -0.020021022073176836
+      "current": 19970,
+      "previous": 19975,
+      "change": -5,
+      "rate": -0.025031289111389236
     },
     {
       "name": "新北市烏來區",
       "county": "新北市",
-      "current": 6107,
-      "previous": 6112,
-      "change": -5,
-      "rate": -0.08180628272251309
+      "current": 6128,
+      "previous": 6107,
+      "change": 21,
+      "rate": 0.3438676928115278
     },
     {
       "name": "臺北市松山區",
       "county": "臺北市",
-      "current": 185999,
-      "previous": 186238,
-      "change": -239,
-      "rate": -0.12833041591941494
+      "current": 185700,
+      "previous": 185999,
+      "change": -299,
+      "rate": -0.16075355243845396
     },
     {
       "name": "臺北市信義區",
       "county": "臺北市",
-      "current": 199398,
-      "previous": 199651,
-      "change": -253,
-      "rate": -0.12672112836900393
+      "current": 199198,
+      "previous": 199398,
+      "change": -200,
+      "rate": -0.10030190874532342
     },
     {
       "name": "臺北市大安區",
       "county": "臺北市",
-      "current": 280206,
-      "previous": 280531,
-      "change": -325,
-      "rate": -0.11585172405188732
+      "current": 279617,
+      "previous": 280206,
+      "change": -589,
+      "rate": -0.21020249387950293
     },
     {
       "name": "臺北市中山區",
       "county": "臺北市",
-      "current": 210696,
-      "previous": 210857,
-      "change": -161,
-      "rate": -0.07635506528120954
+      "current": 210441,
+      "previous": 210696,
+      "change": -255,
+      "rate": -0.12102745187378972
     },
     {
       "name": "臺北市中正區",
       "county": "臺北市",
-      "current": 143103,
-      "previous": 143414,
-      "change": -311,
-      "rate": -0.21685470037792684
+      "current": 142673,
+      "previous": 143103,
+      "change": -430,
+      "rate": -0.30048286898248117
     },
     {
       "name": "臺北市大同區",
       "county": "臺北市",
-      "current": 115657,
-      "previous": 115812,
-      "change": -155,
-      "rate": -0.13383759886712948
+      "current": 115605,
+      "previous": 115657,
+      "change": -52,
+      "rate": -0.04496052984255168
     },
     {
       "name": "臺北市萬華區",
       "county": "臺北市",
-      "current": 167155,
-      "previous": 167224,
-      "change": -69,
-      "rate": -0.041262019805769504
+      "current": 167175,
+      "previous": 167155,
+      "change": 20,
+      "rate": 0.011964942717836737
     },
     {
       "name": "臺北市文山區",
       "county": "臺北市",
-      "current": 252377,
-      "previous": 252458,
-      "change": -81,
-      "rate": -0.032084544755959406
+      "current": 252102,
+      "previous": 252377,
+      "change": -275,
+      "rate": -0.10896397056784096
     },
     {
       "name": "臺北市南港區",
       "county": "臺北市",
-      "current": 111268,
-      "previous": 111302,
-      "change": -34,
-      "rate": -0.030547519361736535
+      "current": 111371,
+      "previous": 111268,
+      "change": 103,
+      "rate": 0.09256929215947084
     },
     {
       "name": "臺北市內湖區",
       "county": "臺北市",
-      "current": 265856,
-      "previous": 266085,
-      "change": -229,
-      "rate": -0.08606272431741738
+      "current": 265437,
+      "previous": 265856,
+      "change": -419,
+      "rate": -0.15760411651420317
     },
     {
       "name": "臺北市士林區",
       "county": "臺北市",
-      "current": 255947,
-      "previous": 256225,
-      "change": -278,
-      "rate": -0.10849839008683773
+      "current": 255580,
+      "previous": 255947,
+      "change": -367,
+      "rate": -0.1433890610165386
     },
     {
       "name": "臺北市北投區",
       "county": "臺北市",
-      "current": 234168,
-      "previous": 234362,
-      "change": -194,
-      "rate": -0.08277792474889274
+      "current": 233973,
+      "previous": 234168,
+      "change": -195,
+      "rate": -0.08327354719688429
     },
     {
       "name": "桃園市桃園區",
       "county": "桃園市",
-      "current": 478522,
-      "previous": 478589,
-      "change": -67,
-      "rate": -0.013999485989021895
+      "current": 478459,
+      "previous": 478522,
+      "change": -63,
+      "rate": -0.013165538888494156
     },
     {
       "name": "桃園市中壢區",
       "county": "桃園市",
-      "current": 439097,
-      "previous": 439083,
-      "change": 14,
-      "rate": 0.003188463229047811
+      "current": 438835,
+      "previous": 439097,
+      "change": -262,
+      "rate": -0.05966790936854499
     },
     {
       "name": "桃園市大溪區",
       "county": "桃園市",
-      "current": 93330,
-      "previous": 93389,
-      "change": -59,
-      "rate": -0.06317660538179015
+      "current": 93278,
+      "previous": 93330,
+      "change": -52,
+      "rate": -0.05571627558127076
     },
     {
       "name": "桃園市楊梅區",
       "county": "桃園市",
-      "current": 183215,
-      "previous": 183214,
-      "change": 1,
-      "rate": 0.0005458098180270067
+      "current": 183153,
+      "previous": 183215,
+      "change": -62,
+      "rate": -0.033840024015500916
     },
     {
       "name": "桃園市蘆竹區",
       "county": "桃園市",
-      "current": 170734,
-      "previous": 170652,
-      "change": 82,
-      "rate": 0.04805100438318918
+      "current": 170858,
+      "previous": 170734,
+      "change": 124,
+      "rate": 0.07262759614370894
     },
     {
       "name": "桃園市大園區",
       "county": "桃園市",
-      "current": 91519,
-      "previous": 91294,
-      "change": 225,
-      "rate": 0.2464565031655969
+      "current": 91749,
+      "previous": 91519,
+      "change": 230,
+      "rate": 0.25131393481135067
     },
     {
       "name": "桃園市龜山區",
       "county": "桃園市",
-      "current": 189868,
-      "previous": 189419,
-      "change": 449,
-      "rate": 0.2370406347832055
+      "current": 190506,
+      "previous": 189868,
+      "change": 638,
+      "rate": 0.3360229211873512
     },
     {
       "name": "桃園市八德區",
       "county": "桃園市",
-      "current": 216712,
-      "previous": 216559,
-      "change": 153,
-      "rate": 0.07065049247549167
+      "current": 216891,
+      "previous": 216712,
+      "change": 179,
+      "rate": 0.0825981025508509
     },
     {
       "name": "桃園市龍潭區",
       "county": "桃園市",
-      "current": 126656,
-      "previous": 126700,
-      "change": -44,
-      "rate": -0.03472770323599053
+      "current": 126607,
+      "previous": 126656,
+      "change": -49,
+      "rate": -0.03868746841839313
     },
     {
       "name": "桃園市平鎮區",
       "county": "桃園市",
-      "current": 227051,
-      "previous": 227108,
-      "change": -57,
-      "rate": -0.025098191168959262
+      "current": 226901,
+      "previous": 227051,
+      "change": -150,
+      "rate": -0.06606445247983933
     },
     {
       "name": "桃園市新屋區",
       "county": "桃園市",
-      "current": 49758,
-      "previous": 49788,
-      "change": -30,
-      "rate": -0.06025548324897565
+      "current": 49752,
+      "previous": 49758,
+      "change": -6,
+      "rate": -0.012058362474375979
     },
     {
       "name": "桃園市觀音區",
       "county": "桃園市",
-      "current": 78242,
-      "previous": 78137,
-      "change": 105,
-      "rate": 0.13437935933040684
+      "current": 78376,
+      "previous": 78242,
+      "change": 134,
+      "rate": 0.1712635157587996
     },
     {
       "name": "桃園市復興區",
       "county": "桃園市",
-      "current": 13208,
-      "previous": 13189,
-      "change": 19,
-      "rate": 0.14405944347562363
+      "current": 13246,
+      "previous": 13208,
+      "change": 38,
+      "rate": 0.28770442156268927
     },
     {
       "name": "臺中市中區",
       "county": "臺中市",
-      "current": 18010,
-      "previous": 18032,
-      "change": -22,
-      "rate": -0.1220053238686779
+      "current": 18011,
+      "previous": 18010,
+      "change": 1,
+      "rate": 0.00555247084952804
     },
     {
       "name": "臺中市東區",
       "county": "臺中市",
-      "current": 77664,
-      "previous": 77718,
-      "change": -54,
-      "rate": -0.06948197328804138
+      "current": 77642,
+      "previous": 77664,
+      "change": -22,
+      "rate": -0.028327152863617637
     },
     {
       "name": "臺中市南區",
       "county": "臺中市",
-      "current": 128297,
-      "previous": 128169,
-      "change": 128,
-      "rate": 0.09986814284265305
+      "current": 128416,
+      "previous": 128297,
+      "change": 119,
+      "rate": 0.09275353281838235
     },
     {
       "name": "臺中市西區",
       "county": "臺中市",
-      "current": 112777,
-      "previous": 112971,
-      "change": -194,
-      "rate": -0.1717254870719034
+      "current": 112576,
+      "previous": 112777,
+      "change": -201,
+      "rate": -0.17822783014267093
     },
     {
       "name": "臺中市北區",
       "county": "臺中市",
-      "current": 143184,
-      "previous": 143261,
-      "change": -77,
-      "rate": -0.053748054250633455
+      "current": 143045,
+      "previous": 143184,
+      "change": -139,
+      "rate": -0.09707788579729579
     },
     {
       "name": "臺中市西屯區",
       "county": "臺中市",
-      "current": 238557,
-      "previous": 238508,
-      "change": 49,
-      "rate": 0.020544384255454743
+      "current": 238568,
+      "previous": 238557,
+      "change": 11,
+      "rate": 0.004611057315442431
     },
     {
       "name": "臺中市南屯區",
       "county": "臺中市",
-      "current": 186059,
-      "previous": 185994,
-      "change": 65,
-      "rate": 0.034947363893458934
+      "current": 186094,
+      "previous": 186059,
+      "change": 35,
+      "rate": 0.018811237295696528
     },
     {
       "name": "臺中市北屯區",
       "county": "臺中市",
-      "current": 318861,
-      "previous": 318714,
-      "change": 147,
-      "rate": 0.04612285622846815
+      "current": 319081,
+      "previous": 318861,
+      "change": 220,
+      "rate": 0.06899558114664384
     },
     {
       "name": "臺中市豐原區",
       "county": "臺中市",
-      "current": 160830,
-      "previous": 160920,
-      "change": -90,
-      "rate": -0.05592841163310962
+      "current": 160762,
+      "previous": 160830,
+      "change": -68,
+      "rate": -0.04228066902940993
     },
     {
       "name": "臺中市東勢區",
       "county": "臺中市",
-      "current": 46116,
-      "previous": 46167,
-      "change": -51,
-      "rate": -0.11046851647280526
+      "current": 46059,
+      "previous": 46116,
+      "change": -57,
+      "rate": -0.12360135310954982
     },
     {
       "name": "臺中市大甲區",
       "county": "臺中市",
-      "current": 72502,
-      "previous": 72592,
-      "change": -90,
-      "rate": -0.12398060392329734
+      "current": 72433,
+      "previous": 72502,
+      "change": -69,
+      "rate": -0.09516978841962981
     },
     {
       "name": "臺中市清水區",
       "county": "臺中市",
-      "current": 90449,
-      "previous": 90549,
-      "change": -100,
-      "rate": -0.1104374427105766
+      "current": 90396,
+      "previous": 90449,
+      "change": -53,
+      "rate": -0.05859655717586706
     },
     {
       "name": "臺中市沙鹿區",
       "county": "臺中市",
-      "current": 101829,
-      "previous": 101666,
-      "change": 163,
-      "rate": 0.16032892018964057
+      "current": 101911,
+      "previous": 101829,
+      "change": 82,
+      "rate": 0.08052715827514756
     },
     {
       "name": "臺中市梧棲區",
       "county": "臺中市",
-      "current": 67720,
-      "previous": 67585,
-      "change": 135,
-      "rate": 0.19974846489605683
+      "current": 67903,
+      "previous": 67720,
+      "change": 183,
+      "rate": 0.2702303603071471
     },
     {
       "name": "臺中市后里區",
       "county": "臺中市",
-      "current": 52505,
-      "previous": 52585,
-      "change": -80,
-      "rate": -0.15213463915565276
+      "current": 52498,
+      "previous": 52505,
+      "change": -7,
+      "rate": -0.013332063612989239
     },
     {
       "name": "臺中市神岡區",
       "county": "臺中市",
-      "current": 63046,
-      "previous": 63062,
-      "change": -16,
-      "rate": -0.02537185626843424
+      "current": 62994,
+      "previous": 63046,
+      "change": -52,
+      "rate": -0.08247945944231197
     },
     {
       "name": "臺中市潭子區",
       "county": "臺中市",
-      "current": 109154,
-      "previous": 109215,
-      "change": -61,
-      "rate": -0.05585313372705214
+      "current": 109143,
+      "previous": 109154,
+      "change": -11,
+      "rate": -0.010077505176173113
     },
     {
       "name": "臺中市大雅區",
       "county": "臺中市",
-      "current": 94195,
-      "previous": 94320,
-      "change": -125,
-      "rate": -0.1325275657336726
+      "current": 94107,
+      "previous": 94195,
+      "change": -88,
+      "rate": -0.09342321779287649
     },
     {
       "name": "臺中市新社區",
       "county": "臺中市",
-      "current": 22453,
-      "previous": 22477,
-      "change": -24,
-      "rate": -0.10677581527783957
+      "current": 22416,
+      "previous": 22453,
+      "change": -37,
+      "rate": -0.16478866966552352
     },
     {
       "name": "臺中市石岡區",
       "county": "臺中市",
-      "current": 13561,
-      "previous": 13573,
-      "change": -12,
-      "rate": -0.08841081558977382
+      "current": 13548,
+      "previous": 13561,
+      "change": -13,
+      "rate": -0.09586313693680408
     },
     {
       "name": "臺中市外埔區",
       "county": "臺中市",
-      "current": 30656,
-      "previous": 30659,
-      "change": -3,
-      "rate": -0.009785054959392022
+      "current": 30632,
+      "previous": 30656,
+      "change": -24,
+      "rate": -0.07828810020876827
     },
     {
       "name": "臺中市大安區",
       "county": "臺中市",
-      "current": 17363,
-      "previous": 17349,
-      "change": 14,
-      "rate": 0.08069629373450919
+      "current": 17333,
+      "previous": 17363,
+      "change": -30,
+      "rate": -0.1727812014052871
     },
     {
       "name": "臺中市烏日區",
       "county": "臺中市",
-      "current": 82358,
-      "previous": 82314,
-      "change": 44,
-      "rate": 0.05345384746215711
+      "current": 82368,
+      "previous": 82358,
+      "change": 10,
+      "rate": 0.012142111270307681
     },
     {
       "name": "臺中市大肚區",
       "county": "臺中市",
-      "current": 54851,
-      "previous": 54885,
-      "change": -34,
-      "rate": -0.061947708845768425
+      "current": 54794,
+      "previous": 54851,
+      "change": -57,
+      "rate": -0.10391788663834751
     },
     {
       "name": "臺中市龍井區",
       "county": "臺中市",
-      "current": 79338,
-      "previous": 79331,
-      "change": 7,
-      "rate": 0.008823788934968674
+      "current": 79332,
+      "previous": 79338,
+      "change": -6,
+      "rate": -0.007562580352416245
     },
     {
       "name": "臺中市霧峰區",
       "county": "臺中市",
-      "current": 62096,
-      "previous": 62178,
-      "change": -82,
-      "rate": -0.13187944288976808
+      "current": 62041,
+      "previous": 62096,
+      "change": -55,
+      "rate": -0.08857253285235764
     },
     {
       "name": "臺中市太平區",
       "county": "臺中市",
-      "current": 201725,
-      "previous": 201644,
-      "change": 81,
-      "rate": 0.040169804209398745
+      "current": 201762,
+      "previous": 201725,
+      "change": 37,
+      "rate": 0.01834180195811129
     },
     {
       "name": "臺中市大里區",
       "county": "臺中市",
-      "current": 210277,
-      "previous": 210375,
-      "change": -98,
-      "rate": -0.046583481877599524
+      "current": 210097,
+      "previous": 210277,
+      "change": -180,
+      "rate": -0.08560137342648032
     },
     {
       "name": "臺中市和平區",
       "county": "臺中市",
-      "current": 10418,
-      "previous": 10433,
-      "change": -15,
-      "rate": -0.14377456148758747
+      "current": 10405,
+      "previous": 10418,
+      "change": -13,
+      "rate": -0.1247840276444615
     },
     {
       "name": "臺南市新營區",
       "county": "臺南市",
-      "current": 74149,
-      "previous": 74160,
-      "change": -11,
-      "rate": -0.014832793959007553
+      "current": 74043,
+      "previous": 74149,
+      "change": -106,
+      "rate": -0.14295540061228068
     },
     {
       "name": "臺南市鹽水區",
       "county": "臺南市",
-      "current": 23292,
-      "previous": 23331,
-      "change": -39,
-      "rate": -0.16715957310016716
+      "current": 23278,
+      "previous": 23292,
+      "change": -14,
+      "rate": -0.060106474325948824
     },
     {
       "name": "臺南市白河區",
       "county": "臺南市",
-      "current": 24693,
-      "previous": 24722,
-      "change": -29,
-      "rate": -0.11730442520831647
+      "current": 24661,
+      "previous": 24693,
+      "change": -32,
+      "rate": -0.1295913821730855
     },
     {
       "name": "臺南市柳營區",
       "county": "臺南市",
-      "current": 19654,
-      "previous": 19689,
-      "change": -35,
-      "rate": -0.17776423383615217
+      "current": 19636,
+      "previous": 19654,
+      "change": -18,
+      "rate": -0.09158441029815813
     },
     {
       "name": "臺南市後壁區",
       "county": "臺南市",
-      "current": 20591,
-      "previous": 20626,
-      "change": -35,
-      "rate": -0.1696887423640066
+      "current": 20566,
+      "previous": 20591,
+      "change": -25,
+      "rate": -0.12141226749550775
     },
     {
       "name": "臺南市東山區",
       "county": "臺南市",
-      "current": 18220,
-      "previous": 18240,
-      "change": -20,
-      "rate": -0.10964912280701754
+      "current": 18208,
+      "previous": 18220,
+      "change": -12,
+      "rate": -0.06586169045005488
     },
     {
       "name": "臺南市麻豆區",
       "county": "臺南市",
-      "current": 42590,
-      "previous": 42636,
-      "change": -46,
-      "rate": -0.10789004597054133
+      "current": 42550,
+      "previous": 42590,
+      "change": -40,
+      "rate": -0.09391876027236441
     },
     {
       "name": "臺南市下營區",
       "county": "臺南市",
-      "current": 21532,
-      "previous": 21568,
-      "change": -36,
-      "rate": -0.16691394658753708
+      "current": 21494,
+      "previous": 21532,
+      "change": -38,
+      "rate": -0.17648151588333644
     },
     {
       "name": "臺南市六甲區",
       "county": "臺南市",
-      "current": 20680,
-      "previous": 20708,
-      "change": -28,
-      "rate": -0.13521344407958277
+      "current": 20633,
+      "previous": 20680,
+      "change": -47,
+      "rate": -0.22727272727272727
     },
     {
       "name": "臺南市官田區",
       "county": "臺南市",
-      "current": 20490,
-      "previous": 20497,
-      "change": -7,
-      "rate": -0.034151339220373715
+      "current": 20469,
+      "previous": 20490,
+      "change": -21,
+      "rate": -0.10248901903367497
     },
     {
       "name": "臺南市大內區",
       "county": "臺南市",
-      "current": 8337,
-      "previous": 8363,
-      "change": -26,
-      "rate": -0.3108932201363147
+      "current": 8335,
+      "previous": 8337,
+      "change": -2,
+      "rate": -0.023989444644356483
     },
     {
       "name": "臺南市佳里區",
       "county": "臺南市",
-      "current": 58102,
-      "previous": 58148,
-      "change": -46,
-      "rate": -0.07910848180504919
+      "current": 58045,
+      "previous": 58102,
+      "change": -57,
+      "rate": -0.09810333551340746
     },
     {
       "name": "臺南市學甲區",
       "county": "臺南市",
-      "current": 24268,
-      "previous": 24277,
-      "change": -9,
-      "rate": -0.037072125880462985
+      "current": 24261,
+      "previous": 24268,
+      "change": -7,
+      "rate": -0.028844568979726388
     },
     {
       "name": "臺南市西港區",
       "county": "臺南市",
-      "current": 24736,
-      "previous": 24753,
-      "change": -17,
-      "rate": -0.0686785440148669
+      "current": 24731,
+      "previous": 24736,
+      "change": -5,
+      "rate": -0.020213454075032344
     },
     {
       "name": "臺南市七股區",
       "county": "臺南市",
-      "current": 20273,
-      "previous": 20304,
-      "change": -31,
-      "rate": -0.15267927501970055
+      "current": 20235,
+      "previous": 20273,
+      "change": -38,
+      "rate": -0.18744142455482662
     },
     {
       "name": "臺南市將軍區",
       "county": "臺南市",
-      "current": 17419,
-      "previous": 17456,
-      "change": -37,
-      "rate": -0.21196150320806598
+      "current": 17376,
+      "previous": 17419,
+      "change": -43,
+      "rate": -0.2468568804179344
     },
     {
       "name": "臺南市北門區",
       "county": "臺南市",
-      "current": 9320,
-      "previous": 9344,
-      "change": -24,
-      "rate": -0.2568493150684931
+      "current": 9301,
+      "previous": 9320,
+      "change": -19,
+      "rate": -0.20386266094420602
     },
     {
       "name": "臺南市新化區",
       "county": "臺南市",
-      "current": 41785,
-      "previous": 41827,
-      "change": -42,
-      "rate": -0.1004136084347431
+      "current": 41731,
+      "previous": 41785,
+      "change": -54,
+      "rate": -0.1292329783415101
     },
     {
       "name": "臺南市善化區",
       "county": "臺南市",
-      "current": 53950,
-      "previous": 53901,
-      "change": 49,
-      "rate": 0.09090740431531882
+      "current": 53985,
+      "previous": 53950,
+      "change": 35,
+      "rate": 0.06487488415199259
     },
     {
       "name": "臺南市新市區",
       "county": "臺南市",
-      "current": 38229,
-      "previous": 38269,
-      "change": -40,
-      "rate": -0.10452324335624136
+      "current": 38219,
+      "previous": 38229,
+      "change": -10,
+      "rate": -0.02615815218812943
     },
     {
       "name": "臺南市安定區",
       "county": "臺南市",
-      "current": 29659,
-      "previous": 29655,
-      "change": 4,
-      "rate": 0.013488450514247177
+      "current": 29661,
+      "previous": 29659,
+      "change": 2,
+      "rate": 0.006743315688323949
     },
     {
       "name": "臺南市山上區",
       "county": "臺南市",
-      "current": 6712,
-      "previous": 6715,
-      "change": -3,
-      "rate": -0.04467609828741623
+      "current": 6696,
+      "previous": 6712,
+      "change": -16,
+      "rate": -0.23837902264600713
     },
     {
       "name": "臺南市玉井區",
       "county": "臺南市",
-      "current": 12546,
-      "previous": 12571,
-      "change": -25,
-      "rate": -0.19887041603691033
+      "current": 12526,
+      "previous": 12546,
+      "change": -20,
+      "rate": -0.15941335883947075
     },
     {
       "name": "臺南市楠西區",
       "county": "臺南市",
-      "current": 8261,
-      "previous": 8276,
-      "change": -15,
-      "rate": -0.18124697921701305
+      "current": 8243,
+      "previous": 8261,
+      "change": -18,
+      "rate": -0.2178912964532139
     },
     {
       "name": "臺南市南化區",
       "county": "臺南市",
       "current": 7485,
-      "previous": 7502,
-      "change": -17,
-      "rate": -0.2266062383364436
-    },
-    {
-      "name": "臺南市左鎮區",
-      "county": "臺南市",
-      "current": 4046,
-      "previous": 4056,
-      "change": -10,
-      "rate": -0.2465483234714004
-    },
-    {
-      "name": "臺南市仁德區",
-      "county": "臺南市",
-      "current": 77764,
-      "previous": 77738,
-      "change": 26,
-      "rate": 0.03344567650312588
-    },
-    {
-      "name": "臺南市歸仁區",
-      "county": "臺南市",
-      "current": 71149,
-      "previous": 71196,
-      "change": -47,
-      "rate": -0.06601494465981235
-    },
-    {
-      "name": "臺南市關廟區",
-      "county": "臺南市",
-      "current": 32977,
-      "previous": 33007,
-      "change": -30,
-      "rate": -0.09088981125215863
-    },
-    {
-      "name": "臺南市龍崎區",
-      "county": "臺南市",
-      "current": 3167,
-      "previous": 3179,
-      "change": -12,
-      "rate": -0.3774771940861906
-    },
-    {
-      "name": "臺南市永康區",
-      "county": "臺南市",
-      "current": 235805,
-      "previous": 235737,
-      "change": 68,
-      "rate": 0.02884570517144105
-    },
-    {
-      "name": "臺南市東區",
-      "county": "臺南市",
-      "current": 179684,
-      "previous": 179840,
-      "change": -156,
-      "rate": -0.08674377224199288
-    },
-    {
-      "name": "臺南市南區",
-      "county": "臺南市",
-      "current": 118288,
-      "previous": 118359,
-      "change": -71,
-      "rate": -0.05998698873765409
-    },
-    {
-      "name": "臺南市北區",
-      "county": "臺南市",
-      "current": 125151,
-      "previous": 125180,
-      "change": -29,
-      "rate": -0.023166640038344784
-    },
-    {
-      "name": "臺南市安南區",
-      "county": "臺南市",
-      "current": 204746,
-      "previous": 204715,
-      "change": 31,
-      "rate": 0.015143003688054124
-    },
-    {
-      "name": "臺南市安平區",
-      "county": "臺南市",
-      "current": 71938,
-      "previous": 71884,
-      "change": 54,
-      "rate": 0.07512102832340993
-    },
-    {
-      "name": "臺南市中西區",
-      "county": "臺南市",
-      "current": 74721,
-      "previous": 74859,
-      "change": -138,
-      "rate": -0.1843465715545225
-    },
-    {
-      "name": "高雄市鹽埕區",
-      "county": "高雄市",
-      "current": 21634,
-      "previous": 21671,
-      "change": -37,
-      "rate": -0.17073508375248028
-    },
-    {
-      "name": "高雄市鼓山區",
-      "county": "高雄市",
-      "current": 140190,
-      "previous": 140269,
-      "change": -79,
-      "rate": -0.05632035588761594
-    },
-    {
-      "name": "高雄市左營區",
-      "county": "高雄市",
-      "current": 197352,
-      "previous": 197464,
-      "change": -112,
-      "rate": -0.056719199449013484
-    },
-    {
-      "name": "高雄市楠梓區",
-      "county": "高雄市",
-      "current": 195161,
-      "previous": 195163,
-      "change": -2,
-      "rate": -0.00102478441097954
-    },
-    {
-      "name": "高雄市三民區",
-      "county": "高雄市",
-      "current": 327405,
-      "previous": 327647,
-      "change": -242,
-      "rate": -0.07385997735367636
-    },
-    {
-      "name": "高雄市新興區",
-      "county": "高雄市",
-      "current": 49695,
-      "previous": 49574,
-      "change": 121,
-      "rate": 0.2440795578327349
-    },
-    {
-      "name": "高雄市前金區",
-      "county": "高雄市",
-      "current": 27434,
-      "previous": 27504,
-      "change": -70,
-      "rate": -0.2545084351367074
-    },
-    {
-      "name": "高雄市苓雅區",
-      "county": "高雄市",
-      "current": 159966,
-      "previous": 160187,
-      "change": -221,
-      "rate": -0.1379637548615056
-    },
-    {
-      "name": "高雄市前鎮區",
-      "county": "高雄市",
-      "current": 175365,
-      "previous": 175497,
-      "change": -132,
-      "rate": -0.07521496093950324
-    },
-    {
-      "name": "高雄市旗津區",
-      "county": "高雄市",
-      "current": 24463,
-      "previous": 24525,
-      "change": -62,
-      "rate": -0.2528032619775739
-    },
-    {
-      "name": "高雄市小港區",
-      "county": "高雄市",
-      "current": 152939,
-      "previous": 152989,
-      "change": -50,
-      "rate": -0.032682088254711125
-    },
-    {
-      "name": "高雄市鳳山區",
-      "county": "高雄市",
-      "current": 351817,
-      "previous": 352010,
-      "change": -193,
-      "rate": -0.05482798784125451
-    },
-    {
-      "name": "高雄市林園區",
-      "county": "高雄市",
-      "current": 66972,
-      "previous": 66972,
+      "previous": 7485,
       "change": 0,
       "rate": 0
     },
     {
+      "name": "臺南市左鎮區",
+      "county": "臺南市",
+      "current": 4037,
+      "previous": 4046,
+      "change": -9,
+      "rate": -0.22244191794364804
+    },
+    {
+      "name": "臺南市仁德區",
+      "county": "臺南市",
+      "current": 77841,
+      "previous": 77764,
+      "change": 77,
+      "rate": 0.09901754024998713
+    },
+    {
+      "name": "臺南市歸仁區",
+      "county": "臺南市",
+      "current": 71186,
+      "previous": 71149,
+      "change": 37,
+      "rate": 0.0520035418628512
+    },
+    {
+      "name": "臺南市關廟區",
+      "county": "臺南市",
+      "current": 32935,
+      "previous": 32977,
+      "change": -42,
+      "rate": -0.12736149437486732
+    },
+    {
+      "name": "臺南市龍崎區",
+      "county": "臺南市",
+      "current": 3160,
+      "previous": 3167,
+      "change": -7,
+      "rate": -0.22102936532996525
+    },
+    {
+      "name": "臺南市永康區",
+      "county": "臺南市",
+      "current": 235899,
+      "previous": 235805,
+      "change": 94,
+      "rate": 0.03986344649180467
+    },
+    {
+      "name": "臺南市東區",
+      "county": "臺南市",
+      "current": 179467,
+      "previous": 179684,
+      "change": -217,
+      "rate": -0.1207675697335322
+    },
+    {
+      "name": "臺南市南區",
+      "county": "臺南市",
+      "current": 118231,
+      "previous": 118288,
+      "change": -57,
+      "rate": -0.048187474638171246
+    },
+    {
+      "name": "臺南市北區",
+      "county": "臺南市",
+      "current": 125012,
+      "previous": 125151,
+      "change": -139,
+      "rate": -0.11106583247437096
+    },
+    {
+      "name": "臺南市安南區",
+      "county": "臺南市",
+      "current": 204707,
+      "previous": 204746,
+      "change": -39,
+      "rate": -0.019047991169546658
+    },
+    {
+      "name": "臺南市安平區",
+      "county": "臺南市",
+      "current": 71958,
+      "previous": 71938,
+      "change": 20,
+      "rate": 0.027801718146181435
+    },
+    {
+      "name": "臺南市中西區",
+      "county": "臺南市",
+      "current": 74512,
+      "previous": 74721,
+      "change": -209,
+      "rate": -0.27970717736646994
+    },
+    {
+      "name": "高雄市鹽埕區",
+      "county": "高雄市",
+      "current": 21615,
+      "previous": 21634,
+      "change": -19,
+      "rate": -0.087824720347601
+    },
+    {
+      "name": "高雄市鼓山區",
+      "county": "高雄市",
+      "current": 140117,
+      "previous": 140190,
+      "change": -73,
+      "rate": -0.05207218774520293
+    },
+    {
+      "name": "高雄市左營區",
+      "county": "高雄市",
+      "current": 197219,
+      "previous": 197352,
+      "change": -133,
+      "rate": -0.06739227370383884
+    },
+    {
+      "name": "高雄市楠梓區",
+      "county": "高雄市",
+      "current": 195169,
+      "previous": 195161,
+      "change": 8,
+      "rate": 0.00409917965167221
+    },
+    {
+      "name": "高雄市三民區",
+      "county": "高雄市",
+      "current": 327213,
+      "previous": 327405,
+      "change": -192,
+      "rate": -0.05864296513492463
+    },
+    {
+      "name": "高雄市新興區",
+      "county": "高雄市",
+      "current": 49686,
+      "previous": 49695,
+      "change": -9,
+      "rate": -0.018110473890733475
+    },
+    {
+      "name": "高雄市前金區",
+      "county": "高雄市",
+      "current": 27427,
+      "previous": 27434,
+      "change": -7,
+      "rate": -0.025515783334548372
+    },
+    {
+      "name": "高雄市苓雅區",
+      "county": "高雄市",
+      "current": 159758,
+      "previous": 159966,
+      "change": -208,
+      "rate": -0.13002763087156022
+    },
+    {
+      "name": "高雄市前鎮區",
+      "county": "高雄市",
+      "current": 175205,
+      "previous": 175365,
+      "change": -160,
+      "rate": -0.09123827445613435
+    },
+    {
+      "name": "高雄市旗津區",
+      "county": "高雄市",
+      "current": 24411,
+      "previous": 24463,
+      "change": -52,
+      "rate": -0.21256591587295098
+    },
+    {
+      "name": "高雄市小港區",
+      "county": "高雄市",
+      "current": 152928,
+      "previous": 152939,
+      "change": -11,
+      "rate": -0.007192410045835268
+    },
+    {
+      "name": "高雄市鳳山區",
+      "county": "高雄市",
+      "current": 351581,
+      "previous": 351817,
+      "change": -236,
+      "rate": -0.06708032869361061
+    },
+    {
+      "name": "高雄市林園區",
+      "county": "高雄市",
+      "current": 66900,
+      "previous": 66972,
+      "change": -72,
+      "rate": -0.10750761512273786
+    },
+    {
       "name": "高雄市大寮區",
       "county": "高雄市",
-      "current": 111786,
-      "previous": 111844,
-      "change": -58,
-      "rate": -0.051857944994814206
+      "current": 111663,
+      "previous": 111786,
+      "change": -123,
+      "rate": -0.11003166765068972
     },
     {
       "name": "高雄市大樹區",
       "county": "高雄市",
-      "current": 39727,
-      "previous": 39755,
-      "change": -28,
-      "rate": -0.07043139227770091
+      "current": 39688,
+      "previous": 39727,
+      "change": -39,
+      "rate": -0.09817001032043698
     },
     {
       "name": "高雄市大社區",
       "county": "高雄市",
-      "current": 33498,
-      "previous": 33519,
-      "change": -21,
-      "rate": -0.06265103374205674
+      "current": 33475,
+      "previous": 33498,
+      "change": -23,
+      "rate": -0.06866081557107886
     },
     {
       "name": "高雄市仁武區",
       "county": "高雄市",
-      "current": 100740,
-      "previous": 100729,
-      "change": 11,
-      "rate": 0.01092039035431703
+      "current": 100748,
+      "previous": 100740,
+      "change": 8,
+      "rate": 0.007941234862021043
     },
     {
       "name": "高雄市鳥松區",
       "county": "高雄市",
-      "current": 43358,
-      "previous": 43340,
-      "change": 18,
-      "rate": 0.04153207198892478
+      "current": 43327,
+      "previous": 43358,
+      "change": -31,
+      "rate": -0.07149776281193783
     },
     {
       "name": "高雄市岡山區",
       "county": "高雄市",
-      "current": 94207,
-      "previous": 94261,
-      "change": -54,
-      "rate": -0.05728774360552084
+      "current": 94129,
+      "previous": 94207,
+      "change": -78,
+      "rate": -0.08279639517233327
     },
     {
       "name": "高雄市橋頭區",
       "county": "高雄市",
-      "current": 43750,
-      "previous": 43653,
-      "change": 97,
-      "rate": 0.22220695026687742
+      "current": 43849,
+      "previous": 43750,
+      "change": 99,
+      "rate": 0.22628571428571428
     },
     {
       "name": "高雄市燕巢區",
       "county": "高雄市",
-      "current": 28210,
-      "previous": 28223,
-      "change": -13,
-      "rate": -0.046061722708429294
+      "current": 28208,
+      "previous": 28210,
+      "change": -2,
+      "rate": -0.007089684509039348
     },
     {
       "name": "高雄市田寮區",
       "county": "高雄市",
-      "current": 6020,
-      "previous": 6037,
-      "change": -17,
-      "rate": -0.28159681961239025
+      "current": 5993,
+      "previous": 6020,
+      "change": -27,
+      "rate": -0.4485049833887043
     },
     {
       "name": "高雄市阿蓮區",
       "county": "高雄市",
-      "current": 26555,
-      "previous": 26564,
-      "change": -9,
-      "rate": -0.03388043969281735
+      "current": 26522,
+      "previous": 26555,
+      "change": -33,
+      "rate": -0.12427038222556958
     },
     {
       "name": "高雄市路竹區",
       "county": "高雄市",
-      "current": 48532,
-      "previous": 48579,
-      "change": -47,
-      "rate": -0.09674962432326725
+      "current": 48470,
+      "previous": 48532,
+      "change": -62,
+      "rate": -0.12775076238358196
     },
     {
       "name": "高雄市湖內區",
       "county": "高雄市",
-      "current": 29182,
-      "previous": 29179,
-      "change": 3,
-      "rate": 0.010281366736351485
+      "current": 29143,
+      "previous": 29182,
+      "change": -39,
+      "rate": -0.1336440271400178
     },
     {
       "name": "高雄市茄萣區",
       "county": "高雄市",
-      "current": 28474,
-      "previous": 28515,
-      "change": -41,
-      "rate": -0.14378397334736104
+      "current": 28441,
+      "previous": 28474,
+      "change": -33,
+      "rate": -0.11589520264100583
     },
     {
       "name": "高雄市永安區",
       "county": "高雄市",
-      "current": 13392,
-      "previous": 13403,
-      "change": -11,
-      "rate": -0.08207117809445647
+      "current": 13394,
+      "previous": 13392,
+      "change": 2,
+      "rate": 0.014934289127837515
     },
     {
       "name": "高雄市彌陀區",
       "county": "高雄市",
-      "current": 17625,
-      "previous": 17653,
-      "change": -28,
-      "rate": -0.1586132668668215
+      "current": 17602,
+      "previous": 17625,
+      "change": -23,
+      "rate": -0.13049645390070921
     },
     {
       "name": "高雄市梓官區",
       "county": "高雄市",
-      "current": 34513,
-      "previous": 34519,
-      "change": -6,
-      "rate": -0.017381731799878328
+      "current": 34529,
+      "previous": 34513,
+      "change": 16,
+      "rate": 0.04635934285631501
     },
     {
       "name": "高雄市旗山區",
       "county": "高雄市",
-      "current": 33038,
-      "previous": 33105,
-      "change": -67,
-      "rate": -0.2023863464733424
+      "current": 32960,
+      "previous": 33038,
+      "change": -78,
+      "rate": -0.23609177310975243
     },
     {
       "name": "高雄市美濃區",
       "county": "高雄市",
-      "current": 35729,
-      "previous": 35763,
-      "change": -34,
-      "rate": -0.09507032407795767
+      "current": 35639,
+      "previous": 35729,
+      "change": -90,
+      "rate": -0.25189621875787177
     },
     {
       "name": "高雄市六龜區",
       "county": "高雄市",
-      "current": 11069,
-      "previous": 11089,
-      "change": -20,
-      "rate": -0.18035891423933628
+      "current": 11038,
+      "previous": 11069,
+      "change": -31,
+      "rate": -0.28006143283042734
     },
     {
       "name": "高雄市甲仙區",
       "county": "高雄市",
-      "current": 5206,
-      "previous": 5209,
-      "change": -3,
-      "rate": -0.05759262814359763
+      "current": 5197,
+      "previous": 5206,
+      "change": -9,
+      "rate": -0.17287744909719555
     },
     {
       "name": "高雄市杉林區",
       "county": "高雄市",
-      "current": 10399,
-      "previous": 10424,
-      "change": -25,
-      "rate": -0.23983115886415962
+      "current": 10382,
+      "previous": 10399,
+      "change": -17,
+      "rate": -0.1634772574285989
     },
     {
       "name": "高雄市內門區",
       "county": "高雄市",
-      "current": 12466,
-      "previous": 12483,
-      "change": -17,
-      "rate": -0.1361852118881679
+      "current": 12453,
+      "previous": 12466,
+      "change": -13,
+      "rate": -0.1042836515321675
     },
     {
       "name": "高雄市茂林區",
       "county": "高雄市",
-      "current": 1907,
-      "previous": 1904,
-      "change": 3,
-      "rate": 0.15756302521008403
+      "current": 1905,
+      "previous": 1907,
+      "change": -2,
+      "rate": -0.1048767697954903
     },
     {
       "name": "高雄市桃源區",
       "county": "高雄市",
-      "current": 4156,
-      "previous": 4166,
-      "change": -10,
-      "rate": -0.2400384061449832
+      "current": 4168,
+      "previous": 4156,
+      "change": 12,
+      "rate": 0.28873917228103946
     },
     {
       "name": "高雄市那瑪夏區",
       "county": "高雄市",
-      "current": 3090,
-      "previous": 3097,
-      "change": -7,
-      "rate": -0.22602518566354535
+      "current": 3088,
+      "previous": 3090,
+      "change": -2,
+      "rate": -0.06472491909385113
     },
     {
       "name": "宜蘭縣宜蘭市",
       "county": "宜蘭縣",
-      "current": 93972,
-      "previous": 94085,
-      "change": -113,
-      "rate": -0.12010416113089228
+      "current": 93912,
+      "previous": 93972,
+      "change": -60,
+      "rate": -0.06384880602732729
     },
     {
       "name": "宜蘭縣羅東鎮",
       "county": "宜蘭縣",
-      "current": 68284,
-      "previous": 68375,
-      "change": -91,
-      "rate": -0.1330895795246801
+      "current": 68096,
+      "previous": 68284,
+      "change": -188,
+      "rate": -0.2753207193486029
     },
     {
       "name": "宜蘭縣蘇澳鎮",
       "county": "宜蘭縣",
-      "current": 36241,
-      "previous": 36273,
-      "change": -32,
-      "rate": -0.08821988807101701
+      "current": 36216,
+      "previous": 36241,
+      "change": -25,
+      "rate": -0.06898264396677796
     },
     {
       "name": "宜蘭縣頭城鎮",
       "county": "宜蘭縣",
-      "current": 27950,
-      "previous": 27982,
-      "change": -32,
-      "rate": -0.11435923093417197
+      "current": 27924,
+      "previous": 27950,
+      "change": -26,
+      "rate": -0.09302325581395349
     },
     {
       "name": "宜蘭縣礁溪鄉",
       "county": "宜蘭縣",
-      "current": 36483,
-      "previous": 36493,
-      "change": -10,
-      "rate": -0.027402515550927577
+      "current": 36514,
+      "previous": 36483,
+      "change": 31,
+      "rate": 0.08497108242194995
     },
     {
       "name": "宜蘭縣壯圍鄉",
       "county": "宜蘭縣",
-      "current": 24549,
-      "previous": 24529,
-      "change": 20,
-      "rate": 0.08153614089445146
+      "current": 24562,
+      "previous": 24549,
+      "change": 13,
+      "rate": 0.05295531386207178
     },
     {
       "name": "宜蘭縣員山鄉",
       "county": "宜蘭縣",
-      "current": 32290,
-      "previous": 32274,
-      "change": 16,
-      "rate": 0.049575509698209085
+      "current": 32293,
+      "previous": 32290,
+      "change": 3,
+      "rate": 0.009290802105915144
     },
     {
       "name": "宜蘭縣冬山鄉",
       "county": "宜蘭縣",
-      "current": 52859,
-      "previous": 52819,
-      "change": 40,
-      "rate": 0.07573032431511388
+      "current": 52878,
+      "previous": 52859,
+      "change": 19,
+      "rate": 0.03594468302465049
     },
     {
       "name": "宜蘭縣五結鄉",
       "county": "宜蘭縣",
-      "current": 41689,
-      "previous": 41709,
-      "change": -20,
-      "rate": -0.04795128149799804
+      "current": 41718,
+      "previous": 41689,
+      "change": 29,
+      "rate": 0.0695627143850896
     },
     {
       "name": "宜蘭縣三星鄉",
       "county": "宜蘭縣",
-      "current": 21487,
-      "previous": 21494,
-      "change": -7,
-      "rate": -0.03256722806364567
+      "current": 21507,
+      "previous": 21487,
+      "change": 20,
+      "rate": 0.09307953646390842
     },
     {
       "name": "宜蘭縣大同鄉",
       "county": "宜蘭縣",
       "current": 6039,
-      "previous": 6047,
-      "change": -8,
-      "rate": -0.1322970067802216
+      "previous": 6039,
+      "change": 0,
+      "rate": 0
     },
     {
       "name": "宜蘭縣南澳鄉",
       "county": "宜蘭縣",
-      "current": 6222,
-      "previous": 6237,
-      "change": -15,
-      "rate": -0.24050024050024052
+      "current": 6224,
+      "previous": 6222,
+      "change": 2,
+      "rate": 0.03214400514304082
     },
     {
       "name": "新竹縣竹北市",
       "county": "新竹縣",
-      "current": 221233,
-      "previous": 221109,
-      "change": 124,
-      "rate": 0.056080937456186766
+      "current": 221344,
+      "previous": 221233,
+      "change": 111,
+      "rate": 0.05017334665262416
     },
     {
       "name": "新竹縣關西鎮",
       "county": "新竹縣",
-      "current": 27163,
-      "previous": 27372,
-      "change": -209,
-      "rate": -0.7635539967850358
+      "current": 27018,
+      "previous": 27163,
+      "change": -145,
+      "rate": -0.5338143798549497
     },
     {
       "name": "新竹縣新埔鎮",
       "county": "新竹縣",
-      "current": 33229,
-      "previous": 33231,
-      "change": -2,
-      "rate": -0.006018476723541272
+      "current": 33202,
+      "previous": 33229,
+      "change": -27,
+      "rate": -0.08125432604050678
     },
     {
       "name": "新竹縣竹東鎮",
       "county": "新竹縣",
-      "current": 97508,
-      "previous": 97507,
-      "change": 1,
-      "rate": 0.001025567395161373
+      "current": 97471,
+      "previous": 97508,
+      "change": -37,
+      "rate": -0.03794560446322353
     },
     {
       "name": "新竹縣湖口鄉",
       "county": "新竹縣",
-      "current": 85095,
-      "previous": 85094,
-      "change": 1,
-      "rate": 0.0011751709873786635
+      "current": 85133,
+      "previous": 85095,
+      "change": 38,
+      "rate": 0.04465597273635349
     },
     {
       "name": "新竹縣橫山鄉",
       "county": "新竹縣",
-      "current": 11938,
-      "previous": 11941,
-      "change": -3,
-      "rate": -0.025123523992965417
+      "current": 11944,
+      "previous": 11938,
+      "change": 6,
+      "rate": 0.050259674987435075
     },
     {
       "name": "新竹縣新豐鄉",
       "county": "新竹縣",
-      "current": 60198,
-      "previous": 60115,
-      "change": 83,
-      "rate": 0.13806870165516094
+      "current": 60206,
+      "previous": 60198,
+      "change": 8,
+      "rate": 0.01328947805574936
     },
     {
       "name": "新竹縣芎林鄉",
       "county": "新竹縣",
-      "current": 20330,
-      "previous": 20343,
-      "change": -13,
-      "rate": -0.06390404561765718
+      "current": 20305,
+      "previous": 20330,
+      "change": -25,
+      "rate": -0.12297097884899164
     },
     {
       "name": "新竹縣寶山鄉",
       "county": "新竹縣",
-      "current": 14580,
-      "previous": 14571,
-      "change": 9,
-      "rate": 0.06176652254478073
+      "current": 14559,
+      "previous": 14580,
+      "change": -21,
+      "rate": -0.1440329218106996
     },
     {
       "name": "新竹縣北埔鄉",
       "county": "新竹縣",
-      "current": 8203,
-      "previous": 8206,
+      "current": 8200,
+      "previous": 8203,
       "change": -3,
-      "rate": -0.0365586156470875
+      "rate": -0.03657198585883213
     },
     {
       "name": "新竹縣峨眉鄉",
       "county": "新竹縣",
-      "current": 4922,
-      "previous": 4937,
+      "current": 4907,
+      "previous": 4922,
       "change": -15,
-      "rate": -0.30382823577071094
+      "rate": -0.304754164973588
     },
     {
       "name": "新竹縣尖石鄉",
       "county": "新竹縣",
-      "current": 9521,
-      "previous": 9511,
-      "change": 10,
-      "rate": 0.10514141520344865
+      "current": 9545,
+      "previous": 9521,
+      "change": 24,
+      "rate": 0.25207436193677135
     },
     {
       "name": "新竹縣五峰鄉",
       "county": "新竹縣",
-      "current": 4396,
-      "previous": 4415,
-      "change": -19,
-      "rate": -0.4303510758776897
+      "current": 4395,
+      "previous": 4396,
+      "change": -1,
+      "rate": -0.02274795268425842
     },
     {
       "name": "苗栗縣苗栗市",
       "county": "苗栗縣",
-      "current": 85315,
-      "previous": 85386,
-      "change": -71,
-      "rate": -0.08315180474550864
+      "current": 85243,
+      "previous": 85315,
+      "change": -72,
+      "rate": -0.08439313133681065
     },
     {
       "name": "苗栗縣頭份市",
       "county": "苗栗縣",
-      "current": 108251,
-      "previous": 108220,
-      "change": 31,
-      "rate": 0.028645352060617264
+      "current": 108280,
+      "previous": 108251,
+      "change": 29,
+      "rate": 0.026789590858283065
     },
     {
       "name": "苗栗縣苑裡鎮",
       "county": "苗栗縣",
-      "current": 42916,
-      "previous": 42952,
-      "change": -36,
-      "rate": -0.08381449059415161
+      "current": 42871,
+      "previous": 42916,
+      "change": -45,
+      "rate": -0.10485599776307204
     },
     {
       "name": "苗栗縣通霄鎮",
       "county": "苗栗縣",
-      "current": 30455,
-      "previous": 30464,
-      "change": -9,
-      "rate": -0.029543067226890755
+      "current": 30461,
+      "previous": 30455,
+      "change": 6,
+      "rate": 0.019701198489574783
     },
     {
       "name": "苗栗縣竹南鎮",
       "county": "苗栗縣",
-      "current": 91596,
-      "previous": 91572,
-      "change": 24,
-      "rate": 0.02620888481195125
+      "current": 91602,
+      "previous": 91596,
+      "change": 6,
+      "rate": 0.006550504388837941
     },
     {
       "name": "苗栗縣後龍鎮",
       "county": "苗栗縣",
-      "current": 33366,
-      "previous": 33384,
-      "change": -18,
-      "rate": -0.053918044572250176
+      "current": 33342,
+      "previous": 33366,
+      "change": -24,
+      "rate": -0.07192950908110052
     },
     {
       "name": "苗栗縣卓蘭鎮",
       "county": "苗栗縣",
-      "current": 14285,
-      "previous": 14306,
-      "change": -21,
-      "rate": -0.14679155599049348
+      "current": 14286,
+      "previous": 14285,
+      "change": 1,
+      "rate": 0.0070003500175008756
     },
     {
       "name": "苗栗縣大湖鄉",
       "county": "苗栗縣",
-      "current": 12130,
-      "previous": 12154,
-      "change": -24,
-      "rate": -0.19746585486259668
+      "current": 12094,
+      "previous": 12130,
+      "change": -36,
+      "rate": -0.2967848309975268
     },
     {
       "name": "苗栗縣公館鄉",
       "county": "苗栗縣",
-      "current": 30248,
-      "previous": 30278,
+      "current": 30218,
+      "previous": 30248,
       "change": -30,
-      "rate": -0.09908184160116257
+      "rate": -0.0991801110817244
     },
     {
       "name": "苗栗縣銅鑼鄉",
       "county": "苗栗縣",
-      "current": 16149,
-      "previous": 16162,
-      "change": -13,
-      "rate": -0.0804355896547457
+      "current": 16123,
+      "previous": 16149,
+      "change": -26,
+      "rate": -0.16100068115672797
     },
     {
       "name": "苗栗縣南庄鄉",
       "county": "苗栗縣",
-      "current": 8563,
-      "previous": 8566,
-      "change": -3,
-      "rate": -0.03502218071445249
+      "current": 8553,
+      "previous": 8563,
+      "change": -10,
+      "rate": -0.11678150181011328
     },
     {
       "name": "苗栗縣頭屋鄉",
       "county": "苗栗縣",
       "current": 9337,
-      "previous": 9344,
-      "change": -7,
-      "rate": -0.07491438356164383
+      "previous": 9337,
+      "change": 0,
+      "rate": 0
     },
     {
       "name": "苗栗縣三義鄉",
       "county": "苗栗縣",
-      "current": 14346,
-      "previous": 14386,
-      "change": -40,
-      "rate": -0.27804810232170163
+      "current": 14332,
+      "previous": 14346,
+      "change": -14,
+      "rate": -0.09758817788930713
     },
     {
       "name": "苗栗縣西湖鄉",
       "county": "苗栗縣",
-      "current": 5826,
-      "previous": 5837,
-      "change": -11,
-      "rate": -0.18845297241733766
+      "current": 5822,
+      "previous": 5826,
+      "change": -4,
+      "rate": -0.06865774116031582
     },
     {
       "name": "苗栗縣造橋鄉",
       "county": "苗栗縣",
-      "current": 11462,
-      "previous": 11470,
-      "change": -8,
-      "rate": -0.06974716652136008
+      "current": 11463,
+      "previous": 11462,
+      "change": 1,
+      "rate": 0.008724480893386843
     },
     {
       "name": "苗栗縣三灣鄉",
       "county": "苗栗縣",
-      "current": 5691,
-      "previous": 5696,
-      "change": -5,
-      "rate": -0.08778089887640449
+      "current": 5664,
+      "previous": 5691,
+      "change": -27,
+      "rate": -0.4744333157617291
     },
     {
       "name": "苗栗縣獅潭鄉",
       "county": "苗栗縣",
-      "current": 3914,
-      "previous": 3927,
-      "change": -13,
-      "rate": -0.3310415075120957
+      "current": 3906,
+      "previous": 3914,
+      "change": -8,
+      "rate": -0.2043944813490036
     },
     {
       "name": "苗栗縣泰安鄉",
       "county": "苗栗縣",
-      "current": 5432,
-      "previous": 5437,
-      "change": -5,
-      "rate": -0.09196247930844216
+      "current": 5415,
+      "previous": 5432,
+      "change": -17,
+      "rate": -0.312960235640648
     },
     {
       "name": "彰化縣彰化市",
       "county": "彰化縣",
-      "current": 218733,
-      "previous": 218924,
-      "change": -191,
-      "rate": -0.08724488863715261
+      "current": 218437,
+      "previous": 218733,
+      "change": -296,
+      "rate": -0.13532480238464248
     },
     {
       "name": "彰化縣員林市",
       "county": "彰化縣",
-      "current": 121601,
-      "previous": 121633,
-      "change": -32,
-      "rate": -0.02630864979076402
+      "current": 121520,
+      "previous": 121601,
+      "change": -81,
+      "rate": -0.06661129431501385
     },
     {
       "name": "彰化縣鹿港鎮",
       "county": "彰化縣",
-      "current": 81633,
-      "previous": 81676,
-      "change": -43,
-      "rate": -0.052647044419413286
+      "current": 81543,
+      "previous": 81633,
+      "change": -90,
+      "rate": -0.11024953143949137
     },
     {
       "name": "彰化縣和美鎮",
       "county": "彰化縣",
-      "current": 86028,
-      "previous": 86128,
-      "change": -100,
-      "rate": -0.11610626044956343
+      "current": 85926,
+      "previous": 86028,
+      "change": -102,
+      "rate": -0.11856604826335612
     },
     {
       "name": "彰化縣北斗鎮",
       "county": "彰化縣",
-      "current": 32926,
-      "previous": 32946,
-      "change": -20,
-      "rate": -0.0607053967097675
+      "current": 32900,
+      "previous": 32926,
+      "change": -26,
+      "rate": -0.07896495170989491
     },
     {
       "name": "彰化縣溪湖鎮",
       "county": "彰化縣",
-      "current": 52546,
-      "previous": 52565,
-      "change": -19,
-      "rate": -0.036145724341291735
+      "current": 52494,
+      "previous": 52546,
+      "change": -52,
+      "rate": -0.09896091044037605
     },
     {
       "name": "彰化縣田中鎮",
       "county": "彰化縣",
-      "current": 37980,
-      "previous": 38023,
-      "change": -43,
-      "rate": -0.11308944586171528
+      "current": 37949,
+      "previous": 37980,
+      "change": -31,
+      "rate": -0.08162190626645603
     },
     {
       "name": "彰化縣二林鎮",
       "county": "彰化縣",
-      "current": 45956,
-      "previous": 46030,
-      "change": -74,
-      "rate": -0.16076471866174233
+      "current": 45869,
+      "previous": 45956,
+      "change": -87,
+      "rate": -0.18931151536252067
     },
     {
       "name": "彰化縣線西鄉",
       "county": "彰化縣",
-      "current": 16004,
-      "previous": 16009,
-      "change": -5,
-      "rate": -0.031232431757136612
+      "current": 16020,
+      "previous": 16004,
+      "change": 16,
+      "rate": 0.0999750062484379
     },
     {
       "name": "彰化縣伸港鄉",
       "county": "彰化縣",
-      "current": 37907,
+      "current": 37894,
       "previous": 37907,
-      "change": 0,
-      "rate": 0
+      "change": -13,
+      "rate": -0.03429445748806289
     },
     {
       "name": "彰化縣福興鄉",
       "county": "彰化縣",
-      "current": 43928,
-      "previous": 43942,
-      "change": -14,
-      "rate": -0.03186017932729507
+      "current": 43881,
+      "previous": 43928,
+      "change": -47,
+      "rate": -0.10699326170096521
     },
     {
       "name": "彰化縣秀水鄉",
       "county": "彰化縣",
-      "current": 37097,
-      "previous": 37125,
-      "change": -28,
-      "rate": -0.07542087542087542
+      "current": 37065,
+      "previous": 37097,
+      "change": -32,
+      "rate": -0.08626034450225085
     },
     {
       "name": "彰化縣花壇鄉",
       "county": "彰化縣",
-      "current": 43039,
-      "previous": 43081,
-      "change": -42,
-      "rate": -0.09749077319467979
+      "current": 43029,
+      "previous": 43039,
+      "change": -10,
+      "rate": -0.02323474058412138
     },
     {
       "name": "彰化縣芬園鄉",
       "county": "彰化縣",
-      "current": 21130,
-      "previous": 21176,
-      "change": -46,
-      "rate": -0.21722704948998867
+      "current": 21096,
+      "previous": 21130,
+      "change": -34,
+      "rate": -0.1609086606720303
     },
     {
       "name": "彰化縣大村鄉",
       "county": "彰化縣",
-      "current": 38448,
-      "previous": 38504,
-      "change": -56,
-      "rate": -0.14543943486391026
+      "current": 38393,
+      "previous": 38448,
+      "change": -55,
+      "rate": -0.14305035372451103
     },
     {
       "name": "彰化縣埔鹽鄉",
       "county": "彰化縣",
-      "current": 29764,
-      "previous": 29807,
-      "change": -43,
-      "rate": -0.14426141510383467
+      "current": 29722,
+      "previous": 29764,
+      "change": -42,
+      "rate": -0.14111006585136407
     },
     {
       "name": "彰化縣埔心鄉",
       "county": "彰化縣",
-      "current": 32872,
-      "previous": 32905,
-      "change": -33,
-      "rate": -0.10028870992250419
+      "current": 32862,
+      "previous": 32872,
+      "change": -10,
+      "rate": -0.03042102701387199
     },
     {
       "name": "彰化縣永靖鄉",
       "county": "彰化縣",
-      "current": 33962,
-      "previous": 34004,
-      "change": -42,
-      "rate": -0.12351488060228209
+      "current": 33926,
+      "previous": 33962,
+      "change": -36,
+      "rate": -0.10600082445085685
     },
     {
       "name": "彰化縣社頭鄉",
       "county": "彰化縣",
-      "current": 40062,
-      "previous": 40101,
-      "change": -39,
-      "rate": -0.09725443255779158
+      "current": 39994,
+      "previous": 40062,
+      "change": -68,
+      "rate": -0.16973690779292097
     },
     {
       "name": "彰化縣二水鄉",
       "county": "彰化縣",
-      "current": 13074,
-      "previous": 13099,
-      "change": -25,
-      "rate": -0.1908542636842507
+      "current": 13047,
+      "previous": 13074,
+      "change": -27,
+      "rate": -0.2065167508031207
     },
     {
       "name": "彰化縣田尾鄉",
       "county": "彰化縣",
-      "current": 24945,
-      "previous": 24980,
-      "change": -35,
-      "rate": -0.14011208967173738
+      "current": 24920,
+      "previous": 24945,
+      "change": -25,
+      "rate": -0.10022048506714773
     },
     {
       "name": "彰化縣埤頭鄉",
       "county": "彰化縣",
-      "current": 27663,
-      "previous": 27699,
-      "change": -36,
-      "rate": -0.12996859092386007
+      "current": 27630,
+      "previous": 27663,
+      "change": -33,
+      "rate": -0.11929291833857499
     },
     {
       "name": "彰化縣芳苑鄉",
       "county": "彰化縣",
-      "current": 29563,
-      "previous": 29608,
-      "change": -45,
-      "rate": -0.15198594974331261
+      "current": 29524,
+      "previous": 29563,
+      "change": -39,
+      "rate": -0.13192165883029464
     },
     {
       "name": "彰化縣大城鄉",
       "county": "彰化縣",
-      "current": 14018,
-      "previous": 14047,
-      "change": -29,
-      "rate": -0.20644977575282977
+      "current": 13999,
+      "previous": 14018,
+      "change": -19,
+      "rate": -0.13554001997431875
     },
     {
       "name": "彰化縣竹塘鄉",
       "county": "彰化縣",
-      "current": 13857,
-      "previous": 13868,
-      "change": -11,
-      "rate": -0.07931929622151716
+      "current": 13874,
+      "previous": 13857,
+      "change": 17,
+      "rate": 0.12268167713069206
     },
     {
       "name": "彰化縣溪州鄉",
       "county": "彰化縣",
-      "current": 26950,
-      "previous": 26971,
-      "change": -21,
-      "rate": -0.07786140669608098
+      "current": 26933,
+      "previous": 26950,
+      "change": -17,
+      "rate": -0.06307977736549165
     },
     {
       "name": "南投縣南投市",
       "county": "南投縣",
-      "current": 95534,
-      "previous": 95616,
-      "change": -82,
-      "rate": -0.08575970548862115
+      "current": 95429,
+      "previous": 95534,
+      "change": -105,
+      "rate": -0.10990851424623695
     },
     {
       "name": "南投縣埔里鎮",
       "county": "南投縣",
-      "current": 75670,
-      "previous": 75734,
-      "change": -64,
-      "rate": -0.08450629836004965
+      "current": 75615,
+      "previous": 75670,
+      "change": -55,
+      "rate": -0.0726840227302762
     },
     {
       "name": "南投縣草屯鎮",
       "county": "南投縣",
-      "current": 98254,
-      "previous": 98215,
-      "change": 39,
-      "rate": 0.039708802117802776
+      "current": 98247,
+      "previous": 98254,
+      "change": -7,
+      "rate": -0.007124391882264336
     },
     {
       "name": "南投縣竹山鎮",
       "county": "南投縣",
-      "current": 49457,
-      "previous": 49549,
-      "change": -92,
-      "rate": -0.18567478657490563
+      "current": 49392,
+      "previous": 49457,
+      "change": -65,
+      "rate": -0.13142730048324808
     },
     {
       "name": "南投縣集集鎮",
       "county": "南投縣",
-      "current": 10334,
-      "previous": 10353,
-      "change": -19,
-      "rate": -0.18352168453588333
+      "current": 10290,
+      "previous": 10334,
+      "change": -44,
+      "rate": -0.4257789820011612
     },
     {
       "name": "南投縣名間鄉",
       "county": "南投縣",
-      "current": 34119,
-      "previous": 34168,
-      "change": -49,
-      "rate": -0.14340903769608992
+      "current": 34074,
+      "previous": 34119,
+      "change": -45,
+      "rate": -0.13189132155104194
     },
     {
       "name": "南投縣鹿谷鄉",
       "county": "南投縣",
-      "current": 15317,
-      "previous": 15343,
-      "change": -26,
-      "rate": -0.16945838493123902
+      "current": 15293,
+      "previous": 15317,
+      "change": -24,
+      "rate": -0.15668864660181497
     },
     {
       "name": "南投縣中寮鄉",
       "county": "南投縣",
-      "current": 12739,
-      "previous": 12737,
-      "change": 2,
-      "rate": 0.015702284682421293
+      "current": 12750,
+      "previous": 12739,
+      "change": 11,
+      "rate": 0.08634900698641965
     },
     {
       "name": "南投縣魚池鄉",
       "county": "南投縣",
-      "current": 13957,
-      "previous": 13971,
-      "change": -14,
-      "rate": -0.1002075728294324
+      "current": 13945,
+      "previous": 13957,
+      "change": -12,
+      "rate": -0.08597836211220176
     },
     {
       "name": "南投縣國姓鄉",
       "county": "南投縣",
-      "current": 15759,
-      "previous": 15783,
-      "change": -24,
-      "rate": -0.1520623455616803
+      "current": 15724,
+      "previous": 15759,
+      "change": -35,
+      "rate": -0.22209531061615587
     },
     {
       "name": "南投縣水里鄉",
       "county": "南投縣",
-      "current": 15298,
-      "previous": 15318,
-      "change": -20,
-      "rate": -0.1305653479566523
+      "current": 15279,
+      "previous": 15298,
+      "change": -19,
+      "rate": -0.12419924173094521
     },
     {
       "name": "南投縣信義鄉",
       "county": "南投縣",
-      "current": 14773,
-      "previous": 14801,
-      "change": -28,
-      "rate": -0.18917640699952706
+      "current": 14761,
+      "previous": 14773,
+      "change": -12,
+      "rate": -0.08122926961348406
     },
     {
       "name": "南投縣仁愛鄉",
       "county": "南投縣",
-      "current": 15190,
-      "previous": 15198,
-      "change": -8,
-      "rate": -0.05263850506645612
+      "current": 15185,
+      "previous": 15190,
+      "change": -5,
+      "rate": -0.03291639236339697
     },
     {
       "name": "雲林縣斗六市",
       "county": "雲林縣",
-      "current": 108977,
-      "previous": 108962,
-      "change": 15,
-      "rate": 0.01376626713900259
+      "current": 108982,
+      "previous": 108977,
+      "change": 5,
+      "rate": 0.004588124099580646
     },
     {
       "name": "雲林縣斗南鎮",
       "county": "雲林縣",
-      "current": 43163,
-      "previous": 43200,
-      "change": -37,
-      "rate": -0.08564814814814815
+      "current": 43125,
+      "previous": 43163,
+      "change": -38,
+      "rate": -0.08803836619326738
     },
     {
       "name": "雲林縣虎尾鎮",
       "county": "雲林縣",
-      "current": 71136,
-      "previous": 71168,
-      "change": -32,
-      "rate": -0.04496402877697842
+      "current": 71163,
+      "previous": 71136,
+      "change": 27,
+      "rate": 0.03795546558704453
     },
     {
       "name": "雲林縣西螺鎮",
       "county": "雲林縣",
-      "current": 43662,
-      "previous": 43720,
-      "change": -58,
-      "rate": -0.13266239707227814
+      "current": 43626,
+      "previous": 43662,
+      "change": -36,
+      "rate": -0.08245155970867116
     },
     {
       "name": "雲林縣土庫鎮",
       "county": "雲林縣",
-      "current": 27043,
-      "previous": 27091,
-      "change": -48,
-      "rate": -0.1771806134878742
+      "current": 27012,
+      "previous": 27043,
+      "change": -31,
+      "rate": -0.11463225233886772
     },
     {
       "name": "雲林縣北港鎮",
       "county": "雲林縣",
-      "current": 36596,
-      "previous": 36619,
-      "change": -23,
-      "rate": -0.0628089243289003
+      "current": 36568,
+      "previous": 36596,
+      "change": -28,
+      "rate": -0.07651109410864575
     },
     {
       "name": "雲林縣古坑鄉",
       "county": "雲林縣",
-      "current": 28816,
-      "previous": 28871,
-      "change": -55,
-      "rate": -0.1905025804440442
+      "current": 28770,
+      "previous": 28816,
+      "change": -46,
+      "rate": -0.15963353692393115
     },
     {
       "name": "雲林縣大埤鄉",
       "county": "雲林縣",
-      "current": 17313,
-      "previous": 17326,
-      "change": -13,
-      "rate": -0.07503174419946901
+      "current": 17288,
+      "previous": 17313,
+      "change": -25,
+      "rate": -0.14440016172818113
     },
     {
       "name": "雲林縣莿桐鄉",
       "county": "雲林縣",
-      "current": 27052,
-      "previous": 27067,
-      "change": -15,
-      "rate": -0.05541803672368567
+      "current": 27008,
+      "previous": 27052,
+      "change": -44,
+      "rate": -0.16264971166642023
     },
     {
       "name": "雲林縣林內鄉",
       "county": "雲林縣",
-      "current": 16283,
-      "previous": 16320,
-      "change": -37,
-      "rate": -0.22671568627450983
+      "current": 16230,
+      "previous": 16283,
+      "change": -53,
+      "rate": -0.32549284529877787
     },
     {
       "name": "雲林縣二崙鄉",
       "county": "雲林縣",
-      "current": 23868,
-      "previous": 23904,
-      "change": -36,
-      "rate": -0.15060240963855423
+      "current": 23828,
+      "previous": 23868,
+      "change": -40,
+      "rate": -0.16758840288252053
     },
     {
       "name": "雲林縣崙背鄉",
       "county": "雲林縣",
-      "current": 22023,
-      "previous": 22054,
-      "change": -31,
-      "rate": -0.1405640700099755
+      "current": 22014,
+      "previous": 22023,
+      "change": -9,
+      "rate": -0.04086636697997548
     },
     {
       "name": "雲林縣麥寮鄉",
       "county": "雲林縣",
-      "current": 48228,
-      "previous": 48239,
-      "change": -11,
-      "rate": -0.02280312610128734
+      "current": 48215,
+      "previous": 48228,
+      "change": -13,
+      "rate": -0.026955295678858755
     },
     {
       "name": "雲林縣東勢鄉",
       "county": "雲林縣",
-      "current": 12785,
-      "previous": 12801,
-      "change": -16,
-      "rate": -0.12499023513787985
+      "current": 12747,
+      "previous": 12785,
+      "change": -38,
+      "rate": -0.2972233085647243
     },
     {
       "name": "雲林縣褒忠鄉",
       "county": "雲林縣",
-      "current": 11422,
-      "previous": 11446,
-      "change": -24,
-      "rate": -0.20968023763760268
+      "current": 11413,
+      "previous": 11422,
+      "change": -9,
+      "rate": -0.07879530730169848
     },
     {
       "name": "雲林縣臺西鄉",
       "county": "雲林縣",
-      "current": 20452,
-      "previous": 20499,
-      "change": -47,
-      "rate": -0.22927947704766086
+      "current": 20415,
+      "previous": 20452,
+      "change": -37,
+      "rate": -0.18091140230784275
     },
     {
       "name": "雲林縣元長鄉",
       "county": "雲林縣",
-      "current": 22311,
-      "previous": 22338,
-      "change": -27,
-      "rate": -0.12087026591458502
+      "current": 22268,
+      "previous": 22311,
+      "change": -43,
+      "rate": -0.19273004347631215
     },
     {
       "name": "雲林縣四湖鄉",
       "county": "雲林縣",
-      "current": 20001,
-      "previous": 20040,
-      "change": -39,
-      "rate": -0.19461077844311378
+      "current": 19948,
+      "previous": 20001,
+      "change": -53,
+      "rate": -0.26498675066246685
     },
     {
       "name": "雲林縣口湖鄉",
       "county": "雲林縣",
-      "current": 23778,
-      "previous": 23815,
-      "change": -37,
-      "rate": -0.1553642662187697
+      "current": 23740,
+      "previous": 23778,
+      "change": -38,
+      "rate": -0.15981159054588276
     },
     {
       "name": "雲林縣水林鄉",
       "county": "雲林縣",
-      "current": 21549,
-      "previous": 21590,
-      "change": -41,
-      "rate": -0.18990273274664196
+      "current": 21521,
+      "previous": 21549,
+      "change": -28,
+      "rate": -0.12993642396398905
     },
     {
       "name": "嘉義縣太保市",
       "county": "嘉義縣",
-      "current": 39630,
-      "previous": 39662,
-      "change": -32,
-      "rate": -0.0806817608794312
+      "current": 39642,
+      "previous": 39630,
+      "change": 12,
+      "rate": 0.03028009084027252
     },
     {
       "name": "嘉義縣朴子市",
       "county": "嘉義縣",
-      "current": 39848,
-      "previous": 39873,
-      "change": -25,
-      "rate": -0.06269906954580794
+      "current": 39835,
+      "previous": 39848,
+      "change": -13,
+      "rate": -0.03262397109014254
     },
     {
       "name": "嘉義縣布袋鎮",
       "county": "嘉義縣",
-      "current": 23199,
-      "previous": 23230,
-      "change": -31,
-      "rate": -0.1334481274214378
+      "current": 23149,
+      "previous": 23199,
+      "change": -50,
+      "rate": -0.215526531316005
     },
     {
       "name": "嘉義縣大林鎮",
       "county": "嘉義縣",
-      "current": 29460,
-      "previous": 29486,
-      "change": -26,
-      "rate": -0.0881774401410839
+      "current": 29407,
+      "previous": 29460,
+      "change": -53,
+      "rate": -0.17990495587236932
     },
     {
       "name": "嘉義縣民雄鄉",
       "county": "嘉義縣",
-      "current": 69431,
-      "previous": 69438,
-      "change": -7,
-      "rate": -0.010080935510815405
+      "current": 69325,
+      "previous": 69431,
+      "change": -106,
+      "rate": -0.15266955682620156
     },
     {
       "name": "嘉義縣溪口鄉",
       "county": "嘉義縣",
-      "current": 12485,
-      "previous": 12505,
-      "change": -20,
-      "rate": -0.1599360255897641
+      "current": 12461,
+      "previous": 12485,
+      "change": -24,
+      "rate": -0.1922306768121746
     },
     {
       "name": "嘉義縣新港鄉",
       "county": "嘉義縣",
-      "current": 28788,
-      "previous": 28809,
-      "change": -21,
-      "rate": -0.07289388732687702
+      "current": 28772,
+      "previous": 28788,
+      "change": -16,
+      "rate": -0.055578713352785886
     },
     {
       "name": "嘉義縣六腳鄉",
       "county": "嘉義縣",
-      "current": 19848,
-      "previous": 19880,
-      "change": -32,
-      "rate": -0.16096579476861167
+      "current": 19788,
+      "previous": 19848,
+      "change": -60,
+      "rate": -0.3022974607013301
     },
     {
       "name": "嘉義縣東石鄉",
       "county": "嘉義縣",
-      "current": 21511,
-      "previous": 21549,
-      "change": -38,
-      "rate": -0.1763422896654137
+      "current": 21480,
+      "previous": 21511,
+      "change": -31,
+      "rate": -0.14411231462972432
     },
     {
       "name": "嘉義縣義竹鄉",
       "county": "嘉義縣",
-      "current": 15748,
-      "previous": 15770,
-      "change": -22,
-      "rate": -0.13950538998097653
+      "current": 15705,
+      "previous": 15748,
+      "change": -43,
+      "rate": -0.2730505461010922
     },
     {
       "name": "嘉義縣鹿草鄉",
       "county": "嘉義縣",
-      "current": 13324,
-      "previous": 13338,
-      "change": -14,
-      "rate": -0.1049632628579997
+      "current": 13297,
+      "previous": 13324,
+      "change": -27,
+      "rate": -0.20264184929450613
     },
     {
       "name": "嘉義縣水上鄉",
       "county": "嘉義縣",
-      "current": 46495,
-      "previous": 46532,
-      "change": -37,
-      "rate": -0.07951517235450872
+      "current": 46463,
+      "previous": 46495,
+      "change": -32,
+      "rate": -0.06882460479621465
     },
     {
       "name": "嘉義縣中埔鄉",
       "county": "嘉義縣",
-      "current": 41127,
-      "previous": 41164,
-      "change": -37,
-      "rate": -0.08988436497910796
+      "current": 41072,
+      "previous": 41127,
+      "change": -55,
+      "rate": -0.1337320981350451
     },
     {
       "name": "嘉義縣竹崎鄉",
       "county": "嘉義縣",
-      "current": 31861,
-      "previous": 31917,
-      "change": -56,
-      "rate": -0.17545508663094903
+      "current": 31775,
+      "previous": 31861,
+      "change": -86,
+      "rate": -0.2699224757540567
     },
     {
       "name": "嘉義縣梅山鄉",
       "county": "嘉義縣",
-      "current": 17065,
-      "previous": 17085,
-      "change": -20,
-      "rate": -0.11706175007316359
+      "current": 17039,
+      "previous": 17065,
+      "change": -26,
+      "rate": -0.15235862877234105
     },
     {
       "name": "嘉義縣番路鄉",
       "county": "嘉義縣",
-      "current": 10525,
-      "previous": 10521,
-      "change": 4,
-      "rate": 0.038019199695846405
+      "current": 10498,
+      "previous": 10525,
+      "change": -27,
+      "rate": -0.25653206650831356
     },
     {
       "name": "嘉義縣大埔鄉",
       "county": "嘉義縣",
-      "current": 4132,
-      "previous": 4136,
+      "current": 4128,
+      "previous": 4132,
       "change": -4,
-      "rate": -0.09671179883945842
+      "rate": -0.0968054211035818
     },
     {
       "name": "嘉義縣阿里山鄉",
       "county": "嘉義縣",
-      "current": 5145,
-      "previous": 5154,
-      "change": -9,
-      "rate": -0.17462165308498254
+      "current": 5138,
+      "previous": 5145,
+      "change": -7,
+      "rate": -0.13605442176870747
     },
     {
       "name": "屏東縣屏東市",
       "county": "屏東縣",
-      "current": 190305,
-      "previous": 190474,
-      "change": -169,
-      "rate": -0.08872602034923402
+      "current": 190101,
+      "previous": 190305,
+      "change": -204,
+      "rate": -0.10719634271301332
     },
     {
       "name": "屏東縣潮州鎮",
       "county": "屏東縣",
-      "current": 53543,
-      "previous": 53562,
-      "change": -19,
-      "rate": -0.03547290989880886
+      "current": 53483,
+      "previous": 53543,
+      "change": -60,
+      "rate": -0.11205946622340922
     },
     {
       "name": "屏東縣東港鎮",
       "county": "屏東縣",
-      "current": 45593,
-      "previous": 45625,
-      "change": -32,
-      "rate": -0.07013698630136987
+      "current": 45532,
+      "previous": 45593,
+      "change": -61,
+      "rate": -0.13379246814203935
     },
     {
       "name": "屏東縣恆春鎮",
       "county": "屏東縣",
-      "current": 28424,
-      "previous": 28448,
-      "change": -24,
-      "rate": -0.0843644544431946
+      "current": 28364,
+      "previous": 28424,
+      "change": -60,
+      "rate": -0.21108922037714606
     },
     {
       "name": "屏東縣萬丹鄉",
       "county": "屏東縣",
-      "current": 48525,
-      "previous": 48551,
-      "change": -26,
-      "rate": -0.05355193507857717
+      "current": 48554,
+      "previous": 48525,
+      "change": 29,
+      "rate": 0.05976300875837197
     },
     {
       "name": "屏東縣長治鄉",
       "county": "屏東縣",
-      "current": 29068,
+      "current": 29059,
       "previous": 29068,
-      "change": 0,
-      "rate": 0
+      "change": -9,
+      "rate": -0.030961882482454933
     },
     {
       "name": "屏東縣麟洛鄉",
       "county": "屏東縣",
-      "current": 10463,
-      "previous": 10458,
-      "change": 5,
-      "rate": 0.04781028877414419
+      "current": 10464,
+      "previous": 10463,
+      "change": 1,
+      "rate": 0.009557488292076843
     },
     {
       "name": "屏東縣九如鄉",
       "county": "屏東縣",
-      "current": 21332,
-      "previous": 21336,
-      "change": -4,
-      "rate": -0.018747656542932135
+      "current": 21318,
+      "previous": 21332,
+      "change": -14,
+      "rate": -0.06562910181886368
     },
     {
       "name": "屏東縣里港鄉",
       "county": "屏東縣",
-      "current": 24733,
-      "previous": 24782,
-      "change": -49,
-      "rate": -0.1977241546283593
+      "current": 24705,
+      "previous": 24733,
+      "change": -28,
+      "rate": -0.11320907289855658
     },
     {
       "name": "屏東縣鹽埔鄉",
       "county": "屏東縣",
-      "current": 22922,
-      "previous": 22935,
-      "change": -13,
-      "rate": -0.056681927185524304
+      "current": 22890,
+      "previous": 22922,
+      "change": -32,
+      "rate": -0.1396038740075037
     },
     {
       "name": "屏東縣高樹鄉",
       "county": "屏東縣",
-      "current": 21625,
-      "previous": 21661,
-      "change": -36,
-      "rate": -0.1661973131434375
+      "current": 21586,
+      "previous": 21625,
+      "change": -39,
+      "rate": -0.18034682080924858
     },
     {
       "name": "屏東縣萬巒鄉",
       "county": "屏東縣",
-      "current": 18453,
-      "previous": 18472,
-      "change": -19,
-      "rate": -0.102858380251191
+      "current": 18430,
+      "previous": 18453,
+      "change": -23,
+      "rate": -0.12464097978648458
     },
     {
       "name": "屏東縣內埔鄉",
       "county": "屏東縣",
-      "current": 52534,
-      "previous": 52558,
-      "change": -24,
-      "rate": -0.045663838045587726
+      "current": 52514,
+      "previous": 52534,
+      "change": -20,
+      "rate": -0.0380705828606236
     },
     {
       "name": "屏東縣竹田鄉",
       "county": "屏東縣",
-      "current": 15321,
-      "previous": 15342,
-      "change": -21,
-      "rate": -0.13687915526007038
+      "current": 15308,
+      "previous": 15321,
+      "change": -13,
+      "rate": -0.08485085829906663
     },
     {
       "name": "屏東縣新埤鄉",
       "county": "屏東縣",
-      "current": 8937,
-      "previous": 8942,
-      "change": -5,
-      "rate": -0.05591590248266608
+      "current": 8930,
+      "previous": 8937,
+      "change": -7,
+      "rate": -0.07832606019917199
     },
     {
       "name": "屏東縣枋寮鄉",
       "county": "屏東縣",
-      "current": 22105,
-      "previous": 22145,
-      "change": -40,
-      "rate": -0.1806276811921427
+      "current": 22059,
+      "previous": 22105,
+      "change": -46,
+      "rate": -0.20809771544899341
     },
     {
       "name": "屏東縣新園鄉",
       "county": "屏東縣",
-      "current": 31467,
-      "previous": 31493,
-      "change": -26,
-      "rate": -0.08255802876829772
+      "current": 31423,
+      "previous": 31467,
+      "change": -44,
+      "rate": -0.139829027234881
     },
     {
       "name": "屏東縣崁頂鄉",
       "county": "屏東縣",
-      "current": 14303,
-      "previous": 14308,
-      "change": -5,
-      "rate": -0.034945485043332405
+      "current": 14294,
+      "previous": 14303,
+      "change": -9,
+      "rate": -0.06292386212682655
     },
     {
       "name": "屏東縣林邊鄉",
       "county": "屏東縣",
-      "current": 15670,
-      "previous": 15671,
-      "change": -1,
-      "rate": -0.006381213706847043
+      "current": 15648,
+      "previous": 15670,
+      "change": -22,
+      "rate": -0.14039566049776644
     },
     {
       "name": "屏東縣南州鄉",
       "county": "屏東縣",
-      "current": 9566,
-      "previous": 9584,
-      "change": -18,
-      "rate": -0.18781302170283806
+      "current": 9557,
+      "previous": 9566,
+      "change": -9,
+      "rate": -0.09408321137361488
     },
     {
       "name": "屏東縣佳冬鄉",
       "county": "屏東縣",
-      "current": 17124,
-      "previous": 17147,
-      "change": -23,
-      "rate": -0.1341342508893684
+      "current": 17083,
+      "previous": 17124,
+      "change": -41,
+      "rate": -0.23943003971034804
     },
     {
       "name": "屏東縣琉球鄉",
       "county": "屏東縣",
-      "current": 12118,
-      "previous": 12123,
+      "current": 12113,
+      "previous": 12118,
       "change": -5,
-      "rate": -0.041243916522312955
+      "rate": -0.0412609341475491
     },
     {
       "name": "屏東縣車城鄉",
       "county": "屏東縣",
-      "current": 7588,
-      "previous": 7623,
-      "change": -35,
-      "rate": -0.4591368227731864
+      "current": 7562,
+      "previous": 7588,
+      "change": -26,
+      "rate": -0.3426462836056932
     },
     {
       "name": "屏東縣滿州鄉",
       "county": "屏東縣",
-      "current": 6944,
-      "previous": 6952,
-      "change": -8,
-      "rate": -0.11507479861910241
+      "current": 6941,
+      "previous": 6944,
+      "change": -3,
+      "rate": -0.043202764976958526
     },
     {
       "name": "屏東縣枋山鄉",
       "county": "屏東縣",
-      "current": 4936,
-      "previous": 4952,
-      "change": -16,
-      "rate": -0.32310177705977383
+      "current": 4929,
+      "previous": 4936,
+      "change": -7,
+      "rate": -0.14181523500810372
     },
     {
       "name": "屏東縣三地門鄉",
       "county": "屏東縣",
-      "current": 7658,
-      "previous": 7660,
-      "change": -2,
-      "rate": -0.02610966057441253
+      "current": 7657,
+      "previous": 7658,
+      "change": -1,
+      "rate": -0.013058239749281797
     },
     {
       "name": "屏東縣霧臺鄉",
       "county": "屏東縣",
-      "current": 3170,
-      "previous": 3176,
-      "change": -6,
-      "rate": -0.1889168765743073
+      "current": 3167,
+      "previous": 3170,
+      "change": -3,
+      "rate": -0.0946372239747634
     },
     {
       "name": "屏東縣瑪家鄉",
       "county": "屏東縣",
-      "current": 6677,
-      "previous": 6680,
-      "change": -3,
-      "rate": -0.04491017964071856
+      "current": 6672,
+      "previous": 6677,
+      "change": -5,
+      "rate": -0.07488392990864161
     },
     {
       "name": "屏東縣泰武鄉",
       "county": "屏東縣",
       "current": 5204,
-      "previous": 5203,
-      "change": 1,
-      "rate": 0.019219680953296174
-    },
-    {
-      "name": "屏東縣來義鄉",
-      "county": "屏東縣",
-      "current": 7274,
-      "previous": 7279,
-      "change": -5,
-      "rate": -0.06869075422448138
-    },
-    {
-      "name": "屏東縣春日鄉",
-      "county": "屏東縣",
-      "current": 4877,
-      "previous": 4869,
-      "change": 8,
-      "rate": 0.1643047853768741
-    },
-    {
-      "name": "屏東縣獅子鄉",
-      "county": "屏東縣",
-      "current": 4834,
-      "previous": 4834,
+      "previous": 5204,
       "change": 0,
       "rate": 0
     },
     {
+      "name": "屏東縣來義鄉",
+      "county": "屏東縣",
+      "current": 7282,
+      "previous": 7274,
+      "change": 8,
+      "rate": 0.10998075336816059
+    },
+    {
+      "name": "屏東縣春日鄉",
+      "county": "屏東縣",
+      "current": 4874,
+      "previous": 4877,
+      "change": -3,
+      "rate": -0.061513225343448844
+    },
+    {
+      "name": "屏東縣獅子鄉",
+      "county": "屏東縣",
+      "current": 4827,
+      "previous": 4834,
+      "change": -7,
+      "rate": -0.1448076127430699
+    },
+    {
       "name": "屏東縣牡丹鄉",
       "county": "屏東縣",
-      "current": 4721,
-      "previous": 4727,
-      "change": -6,
-      "rate": -0.12693039983075946
+      "current": 4722,
+      "previous": 4721,
+      "change": 1,
+      "rate": 0.021181952976064393
     },
     {
       "name": "臺東縣臺東市",
       "county": "臺東縣",
-      "current": 102135,
-      "previous": 102177,
-      "change": -42,
-      "rate": -0.041105141078716344
+      "current": 102065,
+      "previous": 102135,
+      "change": -70,
+      "rate": -0.06853674058843687
     },
     {
       "name": "臺東縣成功鎮",
       "county": "臺東縣",
-      "current": 12648,
-      "previous": 12665,
-      "change": -17,
-      "rate": -0.1342281879194631
+      "current": 12617,
+      "previous": 12648,
+      "change": -31,
+      "rate": -0.24509803921568626
     },
     {
       "name": "臺東縣關山鎮",
       "county": "臺東縣",
-      "current": 7703,
-      "previous": 7709,
-      "change": -6,
-      "rate": -0.07783110649889739
+      "current": 7689,
+      "previous": 7703,
+      "change": -14,
+      "rate": -0.1817473711540958
     },
     {
       "name": "臺東縣卑南鄉",
       "county": "臺東縣",
-      "current": 16211,
-      "previous": 16210,
-      "change": 1,
-      "rate": 0.006169031462060457
+      "current": 16188,
+      "previous": 16211,
+      "change": -23,
+      "rate": -0.1418789710690272
     },
     {
       "name": "臺東縣大武鄉",
       "county": "臺東縣",
-      "current": 5312,
-      "previous": 5314,
-      "change": -2,
-      "rate": -0.03763643206624012
+      "current": 5299,
+      "previous": 5312,
+      "change": -13,
+      "rate": -0.24472891566265062
     },
     {
       "name": "臺東縣太麻里鄉",
       "county": "臺東縣",
-      "current": 10434,
-      "previous": 10445,
-      "change": -11,
-      "rate": -0.10531354715174723
+      "current": 10437,
+      "previous": 10434,
+      "change": 3,
+      "rate": 0.02875215641173088
     },
     {
       "name": "臺東縣東河鄉",
       "county": "臺東縣",
       "current": 7746,
-      "previous": 7751,
-      "change": -5,
-      "rate": -0.06450780544445878
-    },
-    {
-      "name": "臺東縣長濱鄉",
-      "county": "臺東縣",
-      "current": 6398,
-      "previous": 6417,
-      "change": -19,
-      "rate": -0.2960885148823438
-    },
-    {
-      "name": "臺東縣鹿野鄉",
-      "county": "臺東縣",
-      "current": 6983,
-      "previous": 6983,
+      "previous": 7746,
       "change": 0,
       "rate": 0
     },
     {
+      "name": "臺東縣長濱鄉",
+      "county": "臺東縣",
+      "current": 6388,
+      "previous": 6398,
+      "change": -10,
+      "rate": -0.15629884338855893
+    },
+    {
+      "name": "臺東縣鹿野鄉",
+      "county": "臺東縣",
+      "current": 6975,
+      "previous": 6983,
+      "change": -8,
+      "rate": -0.11456394099957037
+    },
+    {
       "name": "臺東縣池上鄉",
       "county": "臺東縣",
-      "current": 7440,
-      "previous": 7453,
-      "change": -13,
-      "rate": -0.17442640547430566
+      "current": 7428,
+      "previous": 7440,
+      "change": -12,
+      "rate": -0.16129032258064516
     },
     {
       "name": "臺東縣綠島鄉",
       "county": "臺東縣",
-      "current": 4318,
-      "previous": 4321,
-      "change": -3,
-      "rate": -0.06942837306179125
+      "current": 4320,
+      "previous": 4318,
+      "change": 2,
+      "rate": 0.04631773969430292
     },
     {
       "name": "臺東縣延平鄉",
       "county": "臺東縣",
-      "current": 3616,
-      "previous": 3613,
-      "change": 3,
-      "rate": 0.08303349017437033
+      "current": 3617,
+      "previous": 3616,
+      "change": 1,
+      "rate": 0.02765486725663717
     },
     {
       "name": "臺東縣海端鄉",
       "county": "臺東縣",
-      "current": 4306,
-      "previous": 4310,
-      "change": -4,
-      "rate": -0.09280742459396751
+      "current": 4305,
+      "previous": 4306,
+      "change": -1,
+      "rate": -0.023223409196470042
     },
     {
       "name": "臺東縣達仁鄉",
       "county": "臺東縣",
-      "current": 3517,
-      "previous": 3521,
-      "change": -4,
-      "rate": -0.1136040897472309
+      "current": 3516,
+      "previous": 3517,
+      "change": -1,
+      "rate": -0.028433323855558714
     },
     {
       "name": "臺東縣金峰鄉",
       "county": "臺東縣",
       "current": 3684,
-      "previous": 3685,
-      "change": -1,
-      "rate": -0.027137042062415198
-    },
-    {
-      "name": "臺東縣蘭嶼鄉",
-      "county": "臺東縣",
-      "current": 5175,
-      "previous": 5173,
-      "change": 2,
-      "rate": 0.038662284941040015
-    },
-    {
-      "name": "花蓮縣花蓮市",
-      "county": "花蓮縣",
-      "current": 95630,
-      "previous": 95845,
-      "change": -215,
-      "rate": -0.2243205175022171
-    },
-    {
-      "name": "花蓮縣鳳林鎮",
-      "county": "花蓮縣",
-      "current": 10069,
-      "previous": 10075,
-      "change": -6,
-      "rate": -0.05955334987593052
-    },
-    {
-      "name": "花蓮縣玉里鎮",
-      "county": "花蓮縣",
-      "current": 20974,
-      "previous": 21006,
-      "change": -32,
-      "rate": -0.15233742740169476
-    },
-    {
-      "name": "花蓮縣新城鄉",
-      "county": "花蓮縣",
-      "current": 20371,
-      "previous": 20365,
-      "change": 6,
-      "rate": 0.02946231279155414
-    },
-    {
-      "name": "花蓮縣吉安鄉",
-      "county": "花蓮縣",
-      "current": 82694,
-      "previous": 82707,
-      "change": -13,
-      "rate": -0.01571813752161244
-    },
-    {
-      "name": "花蓮縣壽豐鄉",
-      "county": "花蓮縣",
-      "current": 16542,
-      "previous": 16564,
-      "change": -22,
-      "rate": -0.13281815986476697
-    },
-    {
-      "name": "花蓮縣光復鄉",
-      "county": "花蓮縣",
-      "current": 11565,
-      "previous": 11547,
-      "change": 18,
-      "rate": 0.1558846453624318
-    },
-    {
-      "name": "花蓮縣豐濱鄉",
-      "county": "花蓮縣",
-      "current": 4075,
-      "previous": 4077,
-      "change": -2,
-      "rate": -0.04905567819475104
-    },
-    {
-      "name": "花蓮縣瑞穗鄉",
-      "county": "花蓮縣",
-      "current": 10338,
-      "previous": 10351,
-      "change": -13,
-      "rate": -0.125591730267607
-    },
-    {
-      "name": "花蓮縣富里鄉",
-      "county": "花蓮縣",
-      "current": 9352,
-      "previous": 9377,
-      "change": -25,
-      "rate": -0.26660978991148554
-    },
-    {
-      "name": "花蓮縣秀林鄉",
-      "county": "花蓮縣",
-      "current": 17272,
-      "previous": 17260,
-      "change": 12,
-      "rate": 0.06952491309385864
-    },
-    {
-      "name": "花蓮縣萬榮鄉",
-      "county": "花蓮縣",
-      "current": 6083,
-      "previous": 6079,
-      "change": 4,
-      "rate": 0.06580029610133245
-    },
-    {
-      "name": "花蓮縣卓溪鄉",
-      "county": "花蓮縣",
-      "current": 5812,
-      "previous": 5814,
-      "change": -2,
-      "rate": -0.03439972480220158
-    },
-    {
-      "name": "澎湖縣馬公市",
-      "county": "澎湖縣",
-      "current": 62617,
-      "previous": 62680,
-      "change": -63,
-      "rate": -0.10051052967453733
-    },
-    {
-      "name": "澎湖縣湖西鄉",
-      "county": "澎湖縣",
-      "current": 16254,
-      "previous": 16234,
-      "change": 20,
-      "rate": 0.12319822594554639
-    },
-    {
-      "name": "澎湖縣白沙鄉",
-      "county": "澎湖縣",
-      "current": 10148,
-      "previous": 10151,
-      "change": -3,
-      "rate": -0.02955373854792631
-    },
-    {
-      "name": "澎湖縣西嶼鄉",
-      "county": "澎湖縣",
-      "current": 8100,
-      "previous": 8107,
-      "change": -7,
-      "rate": -0.08634513383495745
-    },
-    {
-      "name": "澎湖縣望安鄉",
-      "county": "澎湖縣",
-      "current": 5404,
-      "previous": 5395,
-      "change": 9,
-      "rate": 0.16682113067655235
-    },
-    {
-      "name": "澎湖縣七美鄉",
-      "county": "澎湖縣",
-      "current": 4006,
-      "previous": 4006,
+      "previous": 3684,
       "change": 0,
       "rate": 0
     },
     {
+      "name": "臺東縣蘭嶼鄉",
+      "county": "臺東縣",
+      "current": 5180,
+      "previous": 5175,
+      "change": 5,
+      "rate": 0.0966183574879227
+    },
+    {
+      "name": "花蓮縣花蓮市",
+      "county": "花蓮縣",
+      "current": 95493,
+      "previous": 95630,
+      "change": -137,
+      "rate": -0.14326048311199413
+    },
+    {
+      "name": "花蓮縣鳳林鎮",
+      "county": "花蓮縣",
+      "current": 10050,
+      "previous": 10069,
+      "change": -19,
+      "rate": -0.188697983911014
+    },
+    {
+      "name": "花蓮縣玉里鎮",
+      "county": "花蓮縣",
+      "current": 20919,
+      "previous": 20974,
+      "change": -55,
+      "rate": -0.262229426909507
+    },
+    {
+      "name": "花蓮縣新城鄉",
+      "county": "花蓮縣",
+      "current": 20374,
+      "previous": 20371,
+      "change": 3,
+      "rate": 0.014726817534730744
+    },
+    {
+      "name": "花蓮縣吉安鄉",
+      "county": "花蓮縣",
+      "current": 82695,
+      "previous": 82694,
+      "change": 1,
+      "rate": 0.0012092775775751567
+    },
+    {
+      "name": "花蓮縣壽豐鄉",
+      "county": "花蓮縣",
+      "current": 16541,
+      "previous": 16542,
+      "change": -1,
+      "rate": -0.0060452182323781885
+    },
+    {
+      "name": "花蓮縣光復鄉",
+      "county": "花蓮縣",
+      "current": 11554,
+      "previous": 11565,
+      "change": -11,
+      "rate": -0.09511456982274102
+    },
+    {
+      "name": "花蓮縣豐濱鄉",
+      "county": "花蓮縣",
+      "current": 4058,
+      "previous": 4075,
+      "change": -17,
+      "rate": -0.4171779141104294
+    },
+    {
+      "name": "花蓮縣瑞穗鄉",
+      "county": "花蓮縣",
+      "current": 10332,
+      "previous": 10338,
+      "change": -6,
+      "rate": -0.05803830528148578
+    },
+    {
+      "name": "花蓮縣富里鄉",
+      "county": "花蓮縣",
+      "current": 9344,
+      "previous": 9352,
+      "change": -8,
+      "rate": -0.0855431993156544
+    },
+    {
+      "name": "花蓮縣秀林鄉",
+      "county": "花蓮縣",
+      "current": 17299,
+      "previous": 17272,
+      "change": 27,
+      "rate": 0.15632237146827235
+    },
+    {
+      "name": "花蓮縣萬榮鄉",
+      "county": "花蓮縣",
+      "current": 6088,
+      "previous": 6083,
+      "change": 5,
+      "rate": 0.08219628472793031
+    },
+    {
+      "name": "花蓮縣卓溪鄉",
+      "county": "花蓮縣",
+      "current": 5803,
+      "previous": 5812,
+      "change": -9,
+      "rate": -0.1548520302821748
+    },
+    {
+      "name": "澎湖縣馬公市",
+      "county": "澎湖縣",
+      "current": 62811,
+      "previous": 62617,
+      "change": 194,
+      "rate": 0.3098200169283102
+    },
+    {
+      "name": "澎湖縣湖西鄉",
+      "county": "澎湖縣",
+      "current": 16271,
+      "previous": 16254,
+      "change": 17,
+      "rate": 0.1045896394733604
+    },
+    {
+      "name": "澎湖縣白沙鄉",
+      "county": "澎湖縣",
+      "current": 10154,
+      "previous": 10148,
+      "change": 6,
+      "rate": 0.059124950729207724
+    },
+    {
+      "name": "澎湖縣西嶼鄉",
+      "county": "澎湖縣",
+      "current": 8101,
+      "previous": 8100,
+      "change": 1,
+      "rate": 0.01234567901234568
+    },
+    {
+      "name": "澎湖縣望安鄉",
+      "county": "澎湖縣",
+      "current": 5387,
+      "previous": 5404,
+      "change": -17,
+      "rate": -0.3145817912657291
+    },
+    {
+      "name": "澎湖縣七美鄉",
+      "county": "澎湖縣",
+      "current": 4001,
+      "previous": 4006,
+      "change": -5,
+      "rate": -0.12481278082875688
+    },
+    {
       "name": "基隆市中正區",
       "county": "基隆市",
-      "current": 51304,
-      "previous": 51348,
-      "change": -44,
-      "rate": -0.08568980291345331
+      "current": 51287,
+      "previous": 51304,
+      "change": -17,
+      "rate": -0.033135817869951664
     },
     {
       "name": "基隆市七堵區",
       "county": "基隆市",
-      "current": 51982,
-      "previous": 52050,
-      "change": -68,
-      "rate": -0.13064361191162344
+      "current": 51948,
+      "previous": 51982,
+      "change": -34,
+      "rate": -0.06540725635797007
     },
     {
       "name": "基隆市暖暖區",
       "county": "基隆市",
-      "current": 38341,
-      "previous": 38374,
-      "change": -33,
-      "rate": -0.08599572627299734
+      "current": 38284,
+      "previous": 38341,
+      "change": -57,
+      "rate": -0.14866591899011503
     },
     {
       "name": "基隆市仁愛區",
       "county": "基隆市",
-      "current": 39285,
-      "previous": 39359,
-      "change": -74,
-      "rate": -0.18801290683198252
+      "current": 39190,
+      "previous": 39285,
+      "change": -95,
+      "rate": -0.24182257859233805
     },
     {
       "name": "基隆市中山區",
       "county": "基隆市",
-      "current": 45266,
-      "previous": 45297,
-      "change": -31,
-      "rate": -0.06843720334680001
+      "current": 45214,
+      "previous": 45266,
+      "change": -52,
+      "rate": -0.11487650775416428
     },
     {
       "name": "基隆市安樂區",
       "county": "基隆市",
-      "current": 79499,
-      "previous": 79560,
-      "change": -61,
-      "rate": -0.07667169431875315
+      "current": 79439,
+      "previous": 79499,
+      "change": -60,
+      "rate": -0.07547264745468497
     },
     {
       "name": "基隆市信義區",
       "county": "基隆市",
-      "current": 52228,
-      "previous": 52299,
-      "change": -71,
-      "rate": -0.13575785387865924
+      "current": 52213,
+      "previous": 52228,
+      "change": -15,
+      "rate": -0.028720226698322738
     },
     {
       "name": "新竹市東區",
       "county": "新竹市",
-      "current": 221816,
-      "previous": 221886,
-      "change": -70,
-      "rate": -0.03154773171808947
+      "current": 221682,
+      "previous": 221816,
+      "change": -134,
+      "rate": -0.06041043026652721
     },
     {
       "name": "新竹市北區",
       "county": "新竹市",
-      "current": 154261,
-      "previous": 154256,
-      "change": 5,
-      "rate": 0.003241365003630329
+      "current": 154244,
+      "previous": 154261,
+      "change": -17,
+      "rate": -0.011020283804720572
     },
     {
       "name": "新竹市香山區",
       "county": "新竹市",
-      "current": 79706,
-      "previous": 79671,
-      "change": 35,
-      "rate": 0.043930664859233595
+      "current": 79805,
+      "previous": 79706,
+      "change": 99,
+      "rate": 0.12420645873585426
     },
     {
       "name": "嘉義市東區",
       "county": "嘉義市",
-      "current": 116481,
-      "previous": 116552,
-      "change": -71,
-      "rate": -0.06091701558102821
+      "current": 116430,
+      "previous": 116481,
+      "change": -51,
+      "rate": -0.043783964766786
     },
     {
       "name": "嘉義市西區",
       "county": "嘉義市",
-      "current": 144972,
-      "previous": 144927,
-      "change": 45,
-      "rate": 0.031050114885425077
+      "current": 144999,
+      "previous": 144972,
+      "change": 27,
+      "rate": 0.018624286069034022
     },
     {
       "name": "金門縣金城鎮",
       "county": "金門縣",
-      "current": 40328,
-      "previous": 40398,
-      "change": -70,
-      "rate": -0.1732759047477598
+      "current": 40234,
+      "previous": 40328,
+      "change": -94,
+      "rate": -0.23308867288236462
     },
     {
       "name": "金門縣金湖鎮",
       "county": "金門縣",
-      "current": 30205,
-      "previous": 30241,
-      "change": -36,
-      "rate": -0.11904368241790945
+      "current": 30166,
+      "previous": 30205,
+      "change": -39,
+      "rate": -0.12911769574573748
     },
     {
       "name": "金門縣金沙鎮",
       "county": "金門縣",
-      "current": 19579,
-      "previous": 19622,
-      "change": -43,
-      "rate": -0.21914177963510342
+      "current": 19556,
+      "previous": 19579,
+      "change": -23,
+      "rate": -0.11747280249246642
     },
     {
       "name": "金門縣金寧鄉",
       "county": "金門縣",
-      "current": 34669,
-      "previous": 34719,
-      "change": -50,
-      "rate": -0.14401336444022006
+      "current": 35137,
+      "previous": 34669,
+      "change": 468,
+      "rate": 1.3499091407309123
     },
     {
       "name": "金門縣烈嶼鄉",
       "county": "金門縣",
-      "current": 11830,
-      "previous": 11857,
-      "change": -27,
-      "rate": -0.2277135869106857
+      "current": 11801,
+      "previous": 11830,
+      "change": -29,
+      "rate": -0.24513947590870666
     },
     {
       "name": "金門縣烏坵鄉",
       "county": "金門縣",
-      "current": 597,
-      "previous": 596,
-      "change": 1,
-      "rate": 0.16778523489932887
+      "current": 596,
+      "previous": 597,
+      "change": -1,
+      "rate": -0.16750418760469013
     },
     {
       "name": "連江縣南竿鄉",
       "county": "連江縣",
-      "current": 7642,
-      "previous": 7654,
-      "change": -12,
-      "rate": -0.1567807682257643
+      "current": 7641,
+      "previous": 7642,
+      "change": -1,
+      "rate": -0.013085579691180318
     },
     {
       "name": "連江縣北竿鄉",
       "county": "連江縣",
-      "current": 2855,
-      "previous": 2859,
-      "change": -4,
-      "rate": -0.13990905911157747
+      "current": 2899,
+      "previous": 2855,
+      "change": 44,
+      "rate": 1.5411558669001753
     },
     {
       "name": "連江縣莒光鄉",
       "county": "連江縣",
-      "current": 1592,
-      "previous": 1589,
-      "change": 3,
-      "rate": 0.18879798615481436
+      "current": 1589,
+      "previous": 1592,
+      "change": -3,
+      "rate": -0.18844221105527637
     },
     {
       "name": "連江縣東引鄉",
       "county": "連江縣",
-      "current": 1536,
-      "previous": 1539,
-      "change": -3,
-      "rate": -0.1949317738791423
+      "current": 1531,
+      "previous": 1536,
+      "change": -5,
+      "rate": -0.32552083333333337
     }
   ],
   "rankingCoverage": 368,
-  "syncedAt": 1791151303941
+  "syncedAt": 1791246326733
 }
