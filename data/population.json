@@ -2,8 +2,8 @@
   "latestMonth": "2026-09",
   "latestRocMonth": "11509",
   "previousMonth": "2026-08",
-  "generatedAt": "2026-10-10T22:04:06.157Z",
-  "stale": true,
+  "generatedAt": "2026-10-13T01:01:24.736Z",
+  "stale": false,
   "totals": {
     "population": 23213251,
     "male": 11409469,
@@ -6141,6 +6141,5 @@
     }
   ],
   "rankingCoverage": 368,
-  "syncedAt": 1791669846157,
-  "syncWarning": "今日自動同步未完成，繼續顯示上次成功資料。連線數已達上限,稍後再連線。"
+  "syncedAt": 1791853284736
 }
