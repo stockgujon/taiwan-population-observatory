@@ -2,7 +2,7 @@
   "latestMonth": "2026-09",
   "latestRocMonth": "11509",
   "previousMonth": "2026-08",
-  "generatedAt": "2026-10-28T22:54:45.343Z",
+  "generatedAt": "2026-10-29T23:02:11.452Z",
   "stale": false,
   "totals": {
     "population": 23213251,
@@ -6148,5 +6148,5 @@
     }
   ],
   "rankingCoverage": 368,
-  "syncedAt": 1793228085344
+  "syncedAt": 1793314931452
 }
