@@ -2,15 +2,15 @@
   "latestMonth": "2026-10",
   "latestRocMonth": "11510",
   "previousMonth": "2026-09",
-  "generatedAt": "2026-11-10T23:47:42.428Z",
+  "generatedAt": "2026-11-12T01:06:33.561Z",
   "stale": false,
   "totals": {
     "population": 23204000,
     "male": 11403512,
     "female": 11800488,
-    "birth": 7704,
-    "death": 16712,
-    "naturalChange": -9008,
+    "birth": 8035,
+    "death": 17393,
+    "naturalChange": -9358,
     "monthlyChange": -9251
   },
   "trend": [
@@ -2764,6 +2764,13 @@
       "month": 9,
       "birth": 7704,
       "death": 16712
+    },
+    {
+      "period": "2026-10",
+      "year": 2026,
+      "month": 10,
+      "birth": 8035,
+      "death": 17393
     }
   ],
   "pyramid": [
@@ -6148,5 +6155,5 @@
     }
   ],
   "rankingCoverage": 368,
-  "syncedAt": 1794354462429
+  "syncedAt": 1794445593561
 }
